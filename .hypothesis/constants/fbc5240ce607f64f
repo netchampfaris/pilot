@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/bench/inventory.py
+# hypothesis_version: 6.163.1
+
+['-', '.git', '://', 'App', 'Bench', 'Site', '_', 'apps.txt', 'domain', 'domains', 'host_name', 'site_config.json', 'ssl']

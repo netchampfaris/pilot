@@ -1,0 +1,1 @@
+async function e(e){let t=await e();if(typeof t?.url!=`string`)throw Error(`The site login link is invalid.`);let n=window.open(t.url,`_blank`);if(!n)throw Error(`Allow pop-ups to open the site.`);try{n.opener=null}catch{}return t}export{e as t};

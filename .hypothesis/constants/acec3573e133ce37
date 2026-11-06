@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/tasks.py
+# hypothesis_version: 6.163.1
+
+[400, 404, 409, 422, 500, '/<task_id>', '/<task_id>/debug', '/<task_id>/events', '/task-worker', '1', 'BENCH_ROOT', 'Cache-Control', 'Content-Disposition', 'Could not read task.', 'Idempotency-Key', 'Last-Event-ID', 'X-Accel-Buffering', 'ai_not_configured', 'all', 'command', 'delta', 'done', 'error', 'invalid_task', 'invalid_task_status', 'malformed_request', 'message', 'no', 'no-cache', 'queued_tasks', 'refresh', 'running_tasks', 'status', 'task_conflict', 'task_creation_failed', 'task_not_active', 'task_not_cancellable', 'task_not_failed', 'task_not_finished', 'task_not_found', 'task_unavailable', 'task_worker', 'tasks', 'text', 'text/event-stream', 'text/plain', 'type']

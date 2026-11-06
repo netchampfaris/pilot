@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/tasks/setup_letsencrypt.py
+# hypothesis_version: 6.163.1
+
+["Set up Let's Encrypt", '__main__', 'letsencrypt', 'setup-letsencrypt', 'site']

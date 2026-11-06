@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/internal/tasks/runner.py
+# hypothesis_version: 6.163.1
+
+[100, 255, '%Y%m%d-%H%M%S', '-', '.', 'base', 'command', 'finished_at', 'pilot.tasks.', 'secrets.json', 'tasks']

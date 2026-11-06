@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/server/monitoring_config.py
+# hypothesis_version: 6.163.1
+
+['Bench', 'Bench | None', 'bench-monitor.timer', 'monitor', 'system']

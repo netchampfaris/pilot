@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/managers/sudoers.py
+# hypothesis_version: 6.163.1
+
+[',', '-cf', '-l', '-n', '440', 'chmod', 'cp', 'sudo', 'visudo']

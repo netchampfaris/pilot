@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/tasks/switch_branch.py
+# hypothesis_version: 6.163.1
+
+['Build assets', '__main__', 'assets', 'checkout', 'install', 'switch-branch', 'web_only']

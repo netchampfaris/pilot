@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/server/monitoring_proc.py
+# hypothesis_version: 6.163.1
+
+[100, 1024, 'buffers', 'cached', 'cached_mb', 'disk', 'free_mb', 'idle', 'io_counters', 'iowait', 'irq', 'lo', 'lo0', 'nice', 'percent', 'pss', 'read_bytes', 'rx_bytes', 'softirq', 'steal', 'swap_used_mb', 'system', 'total_mb', 'tx_bytes', 'used_mb', 'user', 'uss', 'write_bytes']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/git.py
+# hypothesis_version: 6.163.1
+
+[400, 401, 422, 500, '/branches', '/connection', '/repositories', 'BENCH_ROOT', 'branch', 'branches', 'connected', 'default_branch', 'disconnected', 'event', 'expires_at', 'git', 'git_auth_required', 'github', 'invalid_git_provider', 'invalid_git_token', 'invalid_repository', 'is_token_valid', 'login', 'malformed_request', 'provider', 'providers', 'repo', 'repo is required.', 'repository_required', 'token', 'token_expires_at', 'token_invalid', 'token_preview', 'token_required', 'username']

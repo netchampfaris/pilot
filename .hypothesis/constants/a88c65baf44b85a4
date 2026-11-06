@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/integrations/git/credentials.py
+# hypothesis_version: 6.163.1
+
+['.bench.git.info', 'is_token_valid', 'provider', 'token', 'token_expires_at', 'username']

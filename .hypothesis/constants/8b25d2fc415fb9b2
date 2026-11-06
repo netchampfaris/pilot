@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/managers/python_assets.py
+# hypothesis_version: 6.163.1
+
+['--app', '--force', '--frozen-lockfile', '.tar.gz', '.yarn-integrity', 'App', 'PythonEnvManager', 'assets', 'assets-rtl.json', 'assets.json', 'build', 'css', 'css-rtl', 'dist', 'frappe', 'frontend', 'get-url', 'git', 'install', 'js', 'node_modules', 'origin', 'package.json', 'public', 'remote', 'roster', 'rtl_', 'yarn.lock']

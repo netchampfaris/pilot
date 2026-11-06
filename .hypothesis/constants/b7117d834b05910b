@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/internal/two_factor_authentication.py
+# hypothesis_version: 6.163.1
+
+[3600, '/', 'confirmed', 'confirmed_at', 'created_at', 'last_timestep', 'last_used_at', 'name', 'provisioning_url', 'rw', 'secret', 'utf-8']

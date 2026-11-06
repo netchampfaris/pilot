@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/sites/domains.py
+# hypothesis_version: 6.163.1
+
+[404, 409, 422, 503, '/<name>/domains', 'BENCH_ROOT', 'Domain not found.', 'GET', 'Idempotency-Key', 'domain', 'domain_conflict', 'domain_not_found', 'domains', 'email', 'invalid_domain', 'invalid_email', 'invalid_fields', 'is_primary', 'needs_email', 'primary', 'ssl', 'tls_already_enabled']

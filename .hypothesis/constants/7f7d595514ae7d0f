@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/logs.py
+# hypothesis_version: 6.163.1
+
+[200, 404, 422, 500, 5000, '/<filename>', '/<filename>/content', '/<filename>/events', 'BENCH_ROOT', 'Content-Disposition', 'Could not read logs.', 'filename', 'invalid_log', 'last_modified', 'line_count', 'lines', 'lines_count', 'log_not_found', 'log_unavailable', 'logs', 'logs_unavailable', 'process_name', 'search', 'size_bytes', 'text/event-stream', 'text/plain']

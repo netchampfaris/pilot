@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/bench/settings.py
+# hypothesis_version: 6.163.1
+
+['--user', '-admin', '-c', 'Bench', 'access_key', 'action', 'admin', 'admin_user', 'api_base', 'api_key_set', 'bench', 'body_limit', 'bucket', 'cache_port', 'conditions', 'count', 'custom_rules', 'daemon-reload', 'default', 'description', 'enabled', 'exclusions', 'exempt_paths', 'exp', 'field', 'groups', 'header_name', 'host', 'http_port', 'inbound_threshold', 'inspect_responses', 'ip', 'jti', 'mariadb', 'match', 'max_tokens', 'mode', 'model', 'name', 'nginx_apply_failed', 'none', 'operator', 'paranoia', 'port', 'process_manager', 'production', 'provider', 'python', 'queue_port', 'queues', 'redis', 'region', 'reread', 'restart', 'rules', 's3_sync_failed', 'secret_key_set', 'socket_path', 'socketio_port', 'status', 'supervisorctl', 'systemctl', 'update', 'value', 'workers']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/database/engines/__init__.py
+# hypothesis_version: 6.163.1
+
+['MariaDB', 'PostgreSQL', 'SQLite']

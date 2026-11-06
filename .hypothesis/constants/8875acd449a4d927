@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/commands/bench/list.py
+# hypothesis_version: 6.163.1
+
+['-', 'List all benches.', 'MANAGER', 'MODE', 'NAME', 'SITES', 'address', 'admin', 'bench.toml', 'benches', 'development', 'foreground', 'http', 'https', 'ls', 'manager', 'mode', 'name', 'production', 'running', 'site_config.json', 'sites', 'state', 'stopped', 'unknown', '○', '●']

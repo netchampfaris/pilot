@@ -1,0 +1,1 @@
+import{ht as e,t,x as n}from"./_plugin-vue_export-helper-n7OWsGQ7.js";var r={};function i(t,r){return e(),n(`div`)}var a=t(r,[[`render`,i]]);export{a as default};

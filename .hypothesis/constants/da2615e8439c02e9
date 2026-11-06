@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/integrations/llm/__init__.py
+# hypothesis_version: 6.163.1
+
+['.system-prompt.txt', 'clear_system_prompt', 'read_system_prompt', 'system_prompt_path', 'utf-8', 'write_system_prompt']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/providers/slow_queries.py
+# hypothesis_version: 6.163.1
+
+[300, 1000, 3600, 86400, '1h', 'bucket', 'counts', 'db', 'db_name', 'durations', 'enabled', 'inf', 'mariadb', 'queries', 'query', 'query_counts', 'query_time', 'site', 'site_config.json', 'sites', 'time', 'unknown', 'unsupported', '…']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/stats.py
+# hypothesis_version: 6.163.1
+
+[0.001, 500, 1024, '/', '/database/history', '/metrics', '/monitor/history', '/monitor/status', '/storage', '/system', '/waf', '1h', '24h', 'Application Log', 'BENCH_ROOT', 'Benches', 'MariaDB', 'System Log', 'buffers', 'cached', 'cached_mb', 'cpu_breakdown', 'cpu_count', 'cpu_percent', 'description', 'disk', 'disk_io', 'disk_percent', 'disk_total', 'disk_used', 'free_mb', 'idle', 'iowait', 'irq', 'kernel_version', 'label', 'last_modified', 'load_avg', 'memory_breakdown', 'memory_percent', 'memory_total', 'memory_used', 'net', 'network', 'os_version', 'other', 'path', 'paths', 'read_bytes_per_sec', 'runtime', 'rx_bytes_per_sec', 'seconds', 'softirq', 'stats', 'steal', 'storage_unavailable', 'swap_total', 'swap_used_mb', 'system', 'time', 'tx_bytes_per_sec', 'used_bytes', 'used_mb', 'user', 'window', 'write_bytes_per_sec']

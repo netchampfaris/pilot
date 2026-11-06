@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/integrations/s3/base.py
+# hypothesis_version: 6.163.1
+
+[1024, 25200, '401', '403', '404', 'Amazon S3', 'Body', 'Bucket', 'Code', 'Contents', 'DigitalOcean Spaces', 'Error', 'Key', 'LocationConstraint', 'S3', 'addressing_style', 'ams3', 'ap-northeast-1', 'ap-south-1', 'ap-southeast-1', 'ap-southeast-2', 'application/json', 'aws', 'digitalocean', 'eu-central-1', 'eu-west-1', 'eu-west-2', 'fra1', 'fsn1', 'get_object', 'hel1', 'hetzner', 'list_objects_v2', 'nbg1', 'nyc3', 'path', 's3', 's3v4', 'sfo3', 'sgp1', 'us-east-1', 'us-east-2', 'us-west-1', 'us-west-2', 'virtual']

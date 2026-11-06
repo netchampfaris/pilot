@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/tasks/update_cli.py
+# hypothesis_version: 6.163.1
+
+['__main__', 'restart-admin', 'update', 'update-cli']

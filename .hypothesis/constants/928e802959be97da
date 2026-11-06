@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/internal/tasks/store.py
+# hypothesis_version: 6.163.1
+
+['callbacks.json', 'idempotency_digest', 'meta.json', 'pid', 'process.json', 'queue-sequence', 'queue_sequence', 'request_fingerprint', 'resource_key', 'resource_keys', 'status', 'store', 'task_id', 'tasks', 'utf-8']

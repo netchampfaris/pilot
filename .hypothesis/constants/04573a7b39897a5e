@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/config/redis.py
+# hypothesis_version: 6.163.1
+
+[1024, 11000, 13000, 65535, 'RedisConfig', '^\\d+(\\.\\d+)*$', 'cache_port', 'queue_port', 'redis.cache_port', 'redis.queue_port', 'version']

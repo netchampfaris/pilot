@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/managers/environment.py
+# hypothesis_version: 6.163.1
+
+['  done', '--frozen-lockfile', '--prefix', '--python', '--quiet', '--user', '-c', '-e', '-g', '-m', '.admin-deps', '.admin-venv', '.cargo', '.local', 'AdminEnvManager', 'App', 'Bench', 'PATH', 'PythonEnvManager', 'admin', 'bin', 'brew', 'done', 'flask>=3.0', 'frontend', 'gunicorn', 'gunicorn>=21.2', 'install', 'node', 'node_modules', 'npm', 'package.json', 'pip', 'project', 'psutil>=5.9', 'pyjwt[crypto]>=2.8', 'pymysql>=1.1', 'pyproject.toml', 'python', 'rb', 'sh', 'uninstall', 'uv', 'venv', 'yarn']

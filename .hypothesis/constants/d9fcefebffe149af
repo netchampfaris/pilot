@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/integrations/llm/registry.py
+# hypothesis_version: 6.163.1
+
+['free_text_model', 'label', 'models_need_api_key', 'requires_api_base', 'value']

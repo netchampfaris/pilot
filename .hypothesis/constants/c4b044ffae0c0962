@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/providers/windowed_log.py
+# hypothesis_version: 6.163.1
+
+[b'\n', 1000, 1800, 3600, 21600, 43200, 65536, 86400, 604800, '12h', '1h', '1w', '24h', '30m', '6h', 'rb', 'time']

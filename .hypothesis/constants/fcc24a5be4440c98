@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/config/letsencrypt.py
+# hypothesis_version: 6.163.1
+
+['/var/www/letsencrypt', 'LetsEncryptConfig', '^[^@]+@[^@]+\\.[^@]+$', 'email', 'webroot_path']

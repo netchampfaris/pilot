@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/providers/apps.py
+# hypothesis_version: 6.163.1
+
+['.git', 'apps', 'description', 'env', 'name', 'project', 'pyproject.toml']

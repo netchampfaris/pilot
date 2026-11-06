@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/app/repository.py
+# hypothesis_version: 6.163.1
+
+['--branch', '--depth', '--depth=1', '--hard', '--heads', '--symref', '--unshallow', '-C', '-c', '1', 'App', 'FETCH_HEAD', 'GitRepo', 'HEAD', '[0-9a-f]{7,40}', 'checkout', 'clone', 'commit', 'develop', 'fetch', 'git', 'ls-remote', 'master', 'origin', 'ref: refs/heads/', 'refs/heads/', 'repo', 'reset', 'tag', 'targets', 'version', 'version-15', 'version-16']

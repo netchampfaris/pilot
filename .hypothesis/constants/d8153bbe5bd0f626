@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/managers/database/mariadb.py
+# hypothesis_version: 6.163.1
+
+["'", '--batch', '--now', '--skip-column-names', '--skip-test-db', '-P', '-e', '-h', '-u', '/usr/sbin/mariadbd', '11.8', 'FLUSH PRIVILEGES;', 'MYSQL_PWD', 'MariaDB', 'SELECT 1', 'UNLOCK TABLES', '\\', "\\'", '\\\\', 'config', 'daemon-reload', 'data', 'databases', 'enable', 'mariadb', 'mariadb-install-db', 'mariadb-server', 'mariadbd', 'my.cnf', 'mysqld', 'mysqld.pid', 'mysqld.sock', 'run', 'start']

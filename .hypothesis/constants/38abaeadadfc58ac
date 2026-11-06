@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/managers/processes/systemd.py
+# hypothesis_version: 6.163.1
+
+['--all', '--no-legend', '--plain', '--property=Linger', '-c', '.service', '.socket', '2', 'BENCH_ADMIN_ROOT', 'Linger=yes', 'MALLOC_ARENA_MAX', 'PYTHONPATH', 'admin', 'admin.log', 'daemon-reload', 'disable', 'enable', 'enable-linger', 'is-active', 'is-enabled', 'list-units', 'loginctl', 'reset-failed', 'restart', 'services', 'show-user', 'start', 'stop', 'systemctl', 'web']

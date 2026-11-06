@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/integrations/marketplace.py
+# hypothesis_version: 6.163.1
+
+[' -> ', '-c', 'Bench', 'Resolver', '_spec', 'bin', 'branch', 'categories', 'category', 'dependencies', 'description', 'documentation', 'frappe_core', 'frappe_version', 'is_installable', 'logo_url', 'name', 'python', 'repo', 'required_version', 'stars', 'tag', 'target', 'target_type', 'targets', 'title', 'version', 'website']

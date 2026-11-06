@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/sites/uptime.py
+# hypothesis_version: 6.163.1
+
+['/<name>/uptime', '1h', 'BENCH_ROOT', 'window']

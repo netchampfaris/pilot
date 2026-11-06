@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/sites/core.py
+# hypothesis_version: 6.163.1
+
+[503, 8000, '/<name>', '/<name>/login', '/wildcard-domains', 'BENCH_ROOT', 'Could not read site.', 'GET', 'Idempotency-Key', 'admin_password', 'admin_tls', 'apps', 'broken', 'domains', 'exists', 'framework_branch', 'frappe_branch', 'http_port', 'installable_apps', 'installed_apps', 'name', 'nginx_enabled', 'operation_id', 'provisioning', 'setup_complete', 'ssl', 'task_id', 'url']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/internal/session.py
+# hypothesis_version: 6.163.1
+
+[3600, '.active-jtis.json', '.revoked-jtis.json', 'ES256', 'ES384', 'ES512', 'EdDSA', 'HS256', 'PS256', 'PS384', 'PS512', 'PyJWKClient', 'RS256', 'RS384', 'RS512', 'User-Agent', 'admin', 'aud', 'bench', 'bench-admin', 'exp', 'iat', 'jti', 'kid', 'require', 'rw', 'scope', 'site', 'sub', 'unknown', 'utf-8', 'verify_aud']

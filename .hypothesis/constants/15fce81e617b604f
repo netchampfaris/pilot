@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/bench/audit_log.py
+# hypothesis_version: 6.163.1
+
+[b'\n', 65536, 'a', 'actor_jti', 'jti', 'logged_at', 'rb', 'site', 'status', 'type']

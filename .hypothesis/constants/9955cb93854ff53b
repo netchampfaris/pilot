@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/tasks/backup_site.py
+# hypothesis_version: 6.163.1
+
+['--site', '--with-files', '__main__', 'backup', 'backup-site', 'backup_upload', 'event', 'failed', 'files', 'finished_at', 'frappe', 'offsite', 'pruned', 'retention', 'site', 'status', 'success', 'timestamp', 'with_files']

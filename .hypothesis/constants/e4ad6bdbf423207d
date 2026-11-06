@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/managers/redis.py
+# hypothesis_version: 6.163.1
+
+['--version', 'Bench', 'redis', 'redis-server', 'redis_cache.conf', 'redis_queue.conf', 'v=(\\S+)', 'valkey-server']

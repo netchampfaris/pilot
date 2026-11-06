@@ -1,0 +1,1 @@
+import{R as e}from"./_plugin-vue_export-helper-n7OWsGQ7.js";function t(){let t=e()?.vnode?.scopeId;return t?{[t]:``}:{}}export{t};

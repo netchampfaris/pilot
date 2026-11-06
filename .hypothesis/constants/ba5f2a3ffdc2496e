@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/internal/cli/dispatch.py
+# hypothesis_version: 6.163.1
+
+[130, ', ', '-', '--bench', '--bench=', '--help', '--verbose', '--yes', '-b', '-b=', '-h', '-y', '=', 'Bench', 'CliContext', 'all', 'bench.toml', 'benches', 'frappe']

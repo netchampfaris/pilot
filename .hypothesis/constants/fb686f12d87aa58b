@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/managers/gunicorn/__init__.py
+# hypothesis_version: 6.163.1
+
+[360, 1560, ',', 'Bench', 'cwd', 'default', 'env', 'gthread', 'gunicorn.conf.py', 'long', 'name', 'node', 'nodejs', 'python', 'short', 'socketio', 'stderr', 'stdout', 'stop_timeout', 'sync', 'target', 'templates', 'worker-pool']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/sites/central.py
+# hypothesis_version: 6.163.1
+
+[400, 403, 500, 502, 503, '/', '/<name>/account-url', 'BENCH_ROOT', 'POST', 'central_rejected', 'central_unreachable', 'url']

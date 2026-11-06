@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/managers/task/reader.py
+# hypothesis_version: 6.163.1
+
+[0.5, 8192, ',', ':', 'TaskInfo', 'a', 'args', 'command', 'done', 'exit_code', 'failure', 'finished_at', 'is_cancellable', 'line', 'meta.json', 'output.log', 'overwrite', 'pid', 'queue_position', 'queued_at', 'r', 'replace', 'running', 'started_at', 'status', 'task_id', 'tasks', 'type']

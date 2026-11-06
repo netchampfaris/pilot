@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/app/validator/utils/tmp_env.py
+# hypothesis_version: 6.163.1
+
+['--python', '-c', '.cargo', '.local', 'App', 'TmpEnv', 'bin', 'install', 'pilot-app-validate-', 'pip', 'python', 'uv', 'venv']

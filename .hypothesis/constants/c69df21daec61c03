@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/internal/cli/fields.py
+# hypothesis_version: 6.163.1
+
+['*', '+', '-', '_', 'choices', 'default', 'help', 'metavar', 'nargs', 'required', 'store_true', 'type']

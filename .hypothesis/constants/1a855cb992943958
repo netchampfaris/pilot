@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/providers/sites.py
+# hypothesis_version: 6.163.1
+
+['db_host', 'db_name', 'db_type', 'installed_apps', 'localhost', 'mariadb', 'name', 'new-site', 'new-site-from-backup', 'reinstall-site', 'site', 'site_config.json', 'sites']

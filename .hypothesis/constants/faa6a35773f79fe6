@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/databases.py
+# hypothesis_version: 6.163.1
+
+[400, 404, 422, 500, '/binlogs', '/binlogs/purge', '/diagnostics', '/lockwaits', '/processlist', '/processlist/kill', '/queries', '/schema', '/sites', '/size', '/table-sizes', 'BENCH_ROOT', 'Query is required.', 'Site is required.', 'Site was not found.', 'affected_rows', 'binlogs_unavailable', 'columns', 'database', 'db_type', 'duration_ms', 'invalid_process_id', 'invalid_query', 'invalid_read_only', 'invalid_site', 'invalid_up_to', 'kill_failed', 'malformed_request', 'mariadb', 'name', 'ok', 'process_id', 'purge_failed', 'query', 'query_failed', 'read_only', 'row_count', 'rows', 'schema_unavailable', 'site', 'site_config.json', 'site_not_found', 'sites', 'size_unavailable', 'status', 'truncated', 'up_to', 'up_to is required.']

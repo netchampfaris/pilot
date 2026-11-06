@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/benches/support.py
+# hypothesis_version: 6.163.1
+
+[403, 409, 'BENCH_ROOT', 'Invalid bench path', '^[a-zA-Z0-9_-]+$', 'admin', 'admin_running', 'admin_url', 'bench.toml', 'bench_busy', 'domain', 'enabled', 'http', 'https', 'name', 'none', 'port', 'process_manager', 'production', 'reachable', 'site_count', 'supervisor', 'supervisord', 'tls', 'workload_running']

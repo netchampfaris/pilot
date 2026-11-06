@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/sites/backups.py
+# hypothesis_version: 6.163.1
+
+[404, 422, '/<name>/backups', 'BENCH_ROOT', 'Backup not found.', 'backup', 'backup_not_found', 'created_at', 'download', 'event', 'file', 'filename', 'files', 'invalid_filename', 'invalid_retention', 'invalid_schedule', 'is_offsite', 'kind', 'limit', 'path', 'retention', 's3', 'schedule', 'site', 'size_bytes', 'timestamp', 'via']

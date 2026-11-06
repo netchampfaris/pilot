@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/server/monitoring.py
+# hypothesis_version: 6.163.1
+
+[1.0, 100.0, 100, 1024, '.monitor-placeholder', 'Bench', 'Com_delete', 'Com_insert', 'Com_select', 'Com_update', 'Innodb_row_lock_time', 'Questions', 'Threads_connected', '__main__', 'a', 'bench', 'benches', 'cpu_breakdown', 'cpu_percent', 'disk_io', 'idle', 'iowait', 'irq', 'load_avg', 'mariadb', 'max_connections', 'memory', 'memory_rss_mb', 'missing', 'network', 'nice', 'open_fds', 'other', 'pid', 'processes', 'read_bytes', 'read_bytes_per_sec', 'rx_bytes', 'rx_bytes_per_sec', 'service', 'softirq', 'state', 'steal', 'storage', 'system', 'time', 'total_mb', 'total_ram_mb', 'tx_bytes', 'tx_bytes_per_sec', 'user', 'write_bytes', 'write_bytes_per_sec']

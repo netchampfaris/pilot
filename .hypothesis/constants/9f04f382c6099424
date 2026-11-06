@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/integrations/central/client.py
+# hypothesis_version: 6.163.1
+
+['. ', '/', ':', 'Bench', 'Content-Type', 'GET', 'POST', 'X-Pilot-Token', '_server_messages', 'application/json', 'central_auth_token', 'central_endpoint', 'exception', 'message']

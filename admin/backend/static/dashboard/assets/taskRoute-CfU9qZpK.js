@@ -1,0 +1,1 @@
+function e(e){return{name:`TaskDetail`,params:{taskId:e}}}function t(t,n){t.push(e(n))}export{e as n,t};

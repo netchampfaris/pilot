@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/integrations/llm/base.py
+# hypothesis_version: 6.163.1
+
+[4096, 'choices', 'content', 'delta', 'role', 'system', 'user']

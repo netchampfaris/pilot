@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/providers/database_monitoring.py
+# hypothesis_version: 6.163.1
+
+[100, 400, 1024, 'Avg Row Lock Wait', 'Buffer Pool % RAM', 'Buffer Pool Miss %', 'Buffer Pool Size', 'Com_delete', 'Com_insert', 'Com_select', 'Com_update', 'Connected', 'Delete', 'Innodb_row_lock_time', 'Insert', 'Max Connections', 'Other', 'Questions', 'Select', 'Threads_connected', 'Update', 'earliest', 'max_connections', 'now', 'points', 'slow_queries', 'time', 'total_ram_mb', 'window', 'window_seconds']

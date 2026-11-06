@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/sites/apps.py
+# hypothesis_version: 6.163.1
+
+[403, 422, '/<name>/apps', '/<name>/apps/<app>', '/<name>/marketplace', 'App | None', 'BENCH_ROOT', 'Could not read task.', 'app', 'app_not_installed', 'apps', 'branch', 'commit', 'completed', 'description', 'failed', 'forbidden', 'force', 'frappe', 'has_local_changes', 'invalid_app', 'invalid_repository', 'missing_app', 'name', 'needs_attention', 'operation', 'operation_id', 'repo', 'revert_failed', 'reverted', 'running', 'site', 'sites', 'sites.site_task', 'success', 'task_id', 'title', 'true', 'version']

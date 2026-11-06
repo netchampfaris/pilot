@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/responses.py
+# hypothesis_version: 6.163.1
+
+[201, 202, 204, 10000, 'Location', 'code', 'cursor', 'data', 'details', 'error', 'limit', 'message', 'meta', 'next_cursor', 'tasks.get_task']

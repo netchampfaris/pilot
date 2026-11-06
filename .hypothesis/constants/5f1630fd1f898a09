@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/internal/validators.py
+# hypothesis_version: 6.163.1
+
+[253, '-', '.', '..', '[A-Z]', '[^A-Za-z0-9]', '[a-z]', '\\d', '^(/|~|\\.\\.?/).+', '^[A-Za-z0-9._/\\-]+$', '^git@.+:.+', '^https?://.+']

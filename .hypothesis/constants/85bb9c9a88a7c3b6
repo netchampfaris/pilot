@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/integrations/git/github.py
+# hypothesis_version: 6.163.1
+
+[100, 401, 403, 404, '.git', '/', '2022-11-28', 'Accept', 'Authorization', 'HEAD', 'User-Agent', 'X-GitHub-Api-Version', 'clone_url', 'default_branch', 'description', 'full_name', 'github', 'github.com', 'login', 'name', 'pilot', 'private', 'x-access-token']

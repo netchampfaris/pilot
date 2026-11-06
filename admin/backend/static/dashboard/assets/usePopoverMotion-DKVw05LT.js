@@ -1,0 +1,1 @@
+import{Ut as e,yn as t}from"./_plugin-vue_export-helper-n7OWsGQ7.js";function n(n,{windowMs:r=300}={}){let i=t(`animated`),a=0;function o(){a=Date.now()}return e(n,(e,t)=>{!e||t||(i.value=Date.now()-a<r?`animated`:`instant`)}),{motion:i,onPointerDown:o}}export{n as t};

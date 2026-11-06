@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/providers/database.py
+# hypothesis_version: 6.163.1
+
+['active_connections', 'binlog', 'engine', 'lock_waits', 'mariadb', 'reason', 'sqlite', 'supported']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/site/uptime_monitoring.py
+# hypothesis_version: 6.163.1
+
+[5.0, 200, 1000, '.uptime-placeholder', '/api/method/ping', 'Bench', 'User-Agent', '__main__', 'a', 'benches', 'pilot-uptime-monitor', 'response_ms', 'site', 'status_code', 'time', 'up']

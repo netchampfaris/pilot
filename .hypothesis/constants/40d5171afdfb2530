@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/database/engines/mariadb.py
+# hypothesis_version: 6.163.1
+
+[1.0, 1000, 5000, 'Field', 'File_size', 'Log_name', 'ON', 'SELECT @@datadir', 'SELECT @@log_bin', 'SHOW BINARY LOGS', 'SHOW GLOBAL STATUS', 'SHOW TABLES', 'TABLE', 'Threads_connected', 'Type', 'Value', 'Variable_name', '`', 'col', 'columns', 'db', 'log_output', 'name', 'slow_query_log', 'tbl', 'typ', 'type']

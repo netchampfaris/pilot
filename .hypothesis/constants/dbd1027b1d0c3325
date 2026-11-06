@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/integrations/central/bootstrap.py
+# hypothesis_version: 6.163.1
+
+['/', 'Bench', 'Content-Type', 'PILOT_SEED_PATH', 'POST', 'application/json', 'audience_id', 'auth_token', 'bootstrap_token', 'central', 'central_endpoint', 'endpoint', 'jwks_url']

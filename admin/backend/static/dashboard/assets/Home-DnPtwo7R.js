@@ -1,0 +1,1 @@
+import{ht as e,y as t}from"./_plugin-vue_export-helper-n7OWsGQ7.js";import{H as n}from"./index-BZHuXre8.js";var r={__name:`Home`,setup(r){return(r,i)=>(e(),t(n,{"is-mobile":``}))}};export{r as default};

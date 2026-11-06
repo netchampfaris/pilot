@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/setup/__init__.py
+# hypothesis_version: 6.163.1
+
+[0.1, 400, 401, 404, 409, 422, 500, 503, '.setup-configuration', '/actions/finish', '/actions/start', '/configuration', '/framework-branches', 'BENCH_ROOT', 'BenchConfig', 'Idempotency-Key', 'Procfile', 'WIZARD_SERVER', 'admin_enabled', 'admin_password', 'bench', 'bench.toml', 'bench_name', 'branches', 'config', 'engine', 'event', 'invalid_setup_task', 'invalid_task', 'issued', 'jti', 'malformed_request', 'read_defaults', 'running_setup_task', 'scope', 'session', 'setup', 'setup_active', 'setup_bp', 'setup_not_complete', 'setup_start_failed', 'setup_task_mismatch', 'setup_task_required', 'state', 'task_conflict', 'task_id', 'task_id is required.', 'task_not_found', 'task_unavailable', 'via', 'wizard-setup', 'wizard_marker_path']

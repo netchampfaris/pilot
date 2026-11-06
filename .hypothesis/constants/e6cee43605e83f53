@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/tasks/setup_nginx.py
+# hypothesis_version: 6.163.1
+
+['Set up Nginx', '__main__', 'nginx', 'setup-nginx']

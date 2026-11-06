@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/commands/tasks/stop.py
+# hypothesis_version: 6.163.1
+
+['stop', 'tasks']

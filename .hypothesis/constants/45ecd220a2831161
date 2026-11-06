@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/internal/atomic_file.py
+# hypothesis_version: 6.163.1
+
+['.tmp', 'O_DIRECTORY', 'a', 'utf-8', 'w']

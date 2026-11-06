@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/migrations.py
+# hypothesis_version: 6.163.1
+
+[100, 404, 409, 422, '/migrations', '/migrations/current', '/updates', 'BENCH_ROOT', 'Backup', 'Migrate', 'Recover site', 'Restart services', 'Revert apps', 'Update apps', 'apps', 'bypass_patch', 'can_restore', 'command', 'compare_url', 'disable_safeguards', 'id', 'invalid_fields', 'kind', 'label', 'migrate', 'migration-backup', 'migration_not_found', 'migrations', 'needs_attention', 'operation', 'patch', 'patch_mismatch', 'restart-services', 'restore', 'restore_unavailable', 'retry', 'revert-apps', 'revert-site', 'revert_failed', 'site', 'status', 'task_id', 'task_logs', 'tasks', 'update']

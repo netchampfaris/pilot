@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/bench/runtime.py
+# hypothesis_version: 6.163.1
+
+[7000, '--bench-root', '--port', '--python', '--timeout', '--wizard', '-e', '-m', '7200', 'Bench', 'PYTHONPATH', 'ProcessManager', 'admin', 'assets', 'backend', 'dashboard', 'frontend', 'install', 'package.json', 'pip', 'pyproject.toml', 'setup.py', 'start', 'static', 'systemd']

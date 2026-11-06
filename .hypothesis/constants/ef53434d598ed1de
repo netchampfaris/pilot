@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/managers/nginx/waf_render.py
+# hypothesis_version: 6.163.1
+
+[100, 100000, ' "chain"', '!', ',', '@beginsWith', '@contains', '@ipMatch', '@rx', '@streq', 'Bench', 'Off', 'On', 'ProcessPartial', 'QUERY_STRING', 'REMOTE_ADDR', 'REQUEST_FILENAME', 'REQUEST_HEADERS:Host', 'REQUEST_METHOD', 'REQUEST_URI', 'Reject', 'WafCondition', 'WafConfig', 'WafRule', 'any', 'block', 'chain', 'contains', 'deny,status:403,log', 'header', 'host', 'is', 'is_not', 'log', 'logs', 'matches', 'method', 'modsec_audit.log', 'modsecurity', 'not_contains', 'pass,log,auditlog', 'phase:1', 'query', 'skip', 'source_ip', 'starts_with', 'uri_full', 'uri_path', 'user_agent']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/commands/admin/run_patches.py
+# hypothesis_version: 6.163.1
+
+['admin', 'all', 'post_update', 'pre_update', 'run-patches']

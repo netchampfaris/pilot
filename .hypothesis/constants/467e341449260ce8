@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/providers/storage.py
+# hypothesis_version: 6.163.1
+
+[256, '-sb', '@@log_bin_index', '@@log_error', 'backups', 'du', 'files', 'information_schema', 'mariadb', 'mysql', 'performance_schema', 'postgres', 'private', 'public', 'sys']

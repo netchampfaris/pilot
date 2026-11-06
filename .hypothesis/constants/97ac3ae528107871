@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/config/waf.py
+# hypothesis_version: 6.163.1
+
+[100, 128, 255, 1024, ',', '50m', 'DetectionOnly', 'Off', 'On', 'WafConfig', '["\'\n\r\x00]', '["\\n\\r\\x00]', '^[A-Za-z0-9-]{1,64}$', 'action', 'all', 'any', 'block', 'body_limit', 'conditions', 'contains', 'custom_rules', 'empty size', 'enabled', 'exclusions', 'exempt_paths', 'field', 'g', 'header', 'header_name', 'host', 'inbound_threshold', 'inspect_responses', 'is', 'is_not', 'k', 'log', 'm', 'match', 'matches', 'method', 'mode', 'name', 'not_contains', 'operator', 'paranoia', 'query', 'skip', 'source_ip', 'starts_with', 'uri_full', 'uri_path', 'user_agent', 'value']

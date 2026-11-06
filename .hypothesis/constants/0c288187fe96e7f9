@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/site/domains.py
+# hypothesis_version: 6.163.1
+
+['Site', 'site_config.json', 'ssl']

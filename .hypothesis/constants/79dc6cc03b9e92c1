@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/benches/readiness.py
+# hypothesis_version: 6.163.1
+
+[0.5, 400, 422, 65535, '127.0.0.1', 'BENCH_ROOT', 'bench-readiness', 'domain', 'http', 'https', 'invalid_domain', 'invalid_port', 'invalid_scheme', 'malformed_request', 'port', 'ready', 'scheme']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/internal/tasks/callbacks.py
+# hypothesis_version: 6.163.1
+
+['/etc/hosts', 'args', 'bench_root', 'callbacks.json', 'cleanup-site-restore', 'disable-site-ssl', 'meta.json', 'on_cancel', 'on_failure', 'on_success', 'operation', 'reload-workers', 'remove-failed-site', 'remove_site', 'site', 'site_config.json', 'sites', 'tmp', 'upload_dir', 'uploads', 'web_only']

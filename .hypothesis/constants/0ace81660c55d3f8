@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/core.py
+# hypothesis_version: 6.163.1
+
+[503, '*', '/bootstrap', '/health', 'BENCH_ROOT', 'admin', 'bin', 'core', 'db_type', 'developer_mode', 'enabled', 'env', 'mode', 'name', 'ok', 'production', 'python', 'setup', 'status', 'task_worker', 'utf-8', 'wizard-setup']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/managers/processes/supervisor.py
+# hypothesis_version: 6.163.1
+
+[',', '-c', 'RUNNING', 'admin', 'reread', 'restart', 'services', 'shutdown', 'status', 'stop', 'supervisorctl', 'supervisord', 'supervisord.conf', 'supervisord.pid', 'supervisord.sock', 'update']

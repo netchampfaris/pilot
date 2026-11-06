@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/internal/tasks/wrapper.py
+# hypothesis_version: 6.163.1
+
+[b'\n', b'\r', b'1', b'[redacted]', 65536, 'BENCH_TASK_READY_FD', '[redacted]', '__main__', 'a', 'access_key', 'args', 'bench.toml', 'bench_root', 'callbacks.json', 'code', 'command', 'command_argv', 'command_failed', 'credential', 'exit_code', 'failure', 'finished_at', 'microseconds', 'on_failure', 'on_failure.bin', 'on_success', 'on_success.bin', 'operation', 'output.log', 'password', 'private_key', 'rb', 'secret', 'secrets.json', 'sites', 'token', 'wb']

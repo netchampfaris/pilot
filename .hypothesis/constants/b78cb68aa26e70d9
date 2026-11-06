@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/internal/hs256_jwt.py
+# hypothesis_version: 6.163.1
+
+[b'=', ',', '.', ':', 'HS256', 'JWT', 'alg', 'ascii', 'typ']

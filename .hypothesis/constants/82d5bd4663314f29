@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/managers/database/postgres.py
+# hypothesis_version: 6.163.1
+
+[0.3, '"', '""', "'", "''", '--now', '--prefix', '-D', '-U', '-d', '-h', '-p', '-tAc', '-v', '.', '/usr/lib/postgresql', '127.0.0.1', '16', 'ON_ERROR_STOP=1', 'PGCONNECT_TIMEOUT', 'PGPASSWORD', 'PostgreSQL', 'SELECT 1', 'bin', 'brew', 'config', 'daemon-reload', 'data', 'databases', 'enable', 'initdb', 'pg_hba.conf', 'pg_ident.conf', 'pg_isready', 'postgres', 'postgresql', 'postgresql.conf', 'psql', 'run', 'start', 't']

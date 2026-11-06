@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/bench/creator.py
+# hypothesis_version: 6.163.1
+
+[0.2, '\nNext step:', '  pilot start', '127.0.0.1', 'Bench', 'Writing bench.toml', 'admin.port', 'admin_domain', 'admin_enabled', 'admin_tls', 'bench.toml', 'db_type', 'http_port', 'mariadb']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/middleware.py
+# hypothesis_version: 6.163.1
+
+[401, 403, 429, 503, 3600, '*', 'Admin is disabled.', 'Authorization', 'Bearer ', 'Lax', 'TRUSTED_PROXY_PEERS', 'X-Real-IP', '_auth_policy', '_site_scope_resolver', 'actor', 'actor_jti', 'admin_disabled', 'authenticated', 'bench', 'enabled', 'forbidden', 'ip', 'jti', 'jwt_claims', 'open', 'rate_limit_exceeded', 'rate_limit_windows', 'scope', 'session_unavailable', 'setup-conditional', 'sid', 'site', 'unknown', 'user.email']

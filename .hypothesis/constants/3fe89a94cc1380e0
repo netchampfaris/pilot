@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/internal/git.py
+# hypothesis_version: 6.163.1
+
+['--abort', '--count', '--exact-match', '--format=%s', '--include-untracked', '--porcelain', '--quiet', '--short', '--show-current', '--tags', '--verify', '-1', '-B', '-C', '-q', '.git', '0', '@{u}..HEAD', 'FETCH_HEAD', 'HEAD', 'No local changes', 'branch', 'checkout', 'describe', 'fetch', 'get-url', 'git', 'log', 'ls-remote', 'merge', 'origin', 'pop', 'rebase', 'remote', 'rev-list', 'rev-parse', 'set-url', 'stash', 'status', 'true']

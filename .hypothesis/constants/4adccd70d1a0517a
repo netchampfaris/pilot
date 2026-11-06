@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/editor/routes/git.py
+# hypothesis_version: 6.163.1
+
+[200, 400, 404, 409, '/git/blame', '/git/branches', '/git/checkout', '/git/commit', '/git/commit-diff', '/git/commit-info', '/git/diff', '/git/discard', '/git/log', '/git/pull', '/git/push', '/git/show', '/git/stage', '/git/status', '/git/unstage', 'Branch is required.', 'Commit not found.', 'Invalid commit sha.', 'Path is required.', 'all', 'bad_request', 'branch', 'content', 'create', 'force', 'limit', 'lines', 'message', 'not_found', 'ok', 'path', 'sha', 'skip']

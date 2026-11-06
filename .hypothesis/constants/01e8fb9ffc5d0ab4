@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/updater.py
+# hypothesis_version: 6.163.1
+
+['-C', '.backup', '.update', 'Accept', 'User-Agent', 'asset_url', 'assets', 'bench', 'body', 'browser_download_url', 'frappe/pilot', 'git', 'name', 'pilot', 'pilot.tar.gz', 'post_update', 'pre_update', 'pull', 'tag', 'tag_name']

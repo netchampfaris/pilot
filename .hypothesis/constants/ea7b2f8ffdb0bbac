@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/internal/tasks/payload.py
+# hypothesis_version: 6.163.1
+
+[',', '-m', ':', 'admin_password', 'args', 'bench_root', 'callbacks.json', 'command', 'command_argv', 'exit_code', 'failure', 'finished_at', 'on_cancel', 'on_failure', 'on_success', 'queued_at', 'secrets.json', 'started_at', 'task_id']

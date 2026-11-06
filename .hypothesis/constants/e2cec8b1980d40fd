@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/providers/site_uptime.py
+# hypothesis_version: 6.163.1
+
+[100, 1000, 'bucket_seconds', 'buckets', 'checks', 'logs', 'now', 'overall_percent', 'percent', 'production_enabled', 'site', 'time', 'up', 'uptime.json.log', 'window', 'window_seconds']

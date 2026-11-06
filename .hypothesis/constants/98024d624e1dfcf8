@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/providers/site_access_log.py
+# hypothesis_version: 6.163.1
+
+[1000000, '%d/%b/%Y:%H:%M:%S %z', '?', 'count', 'host', 'ip', 'logs', 'nginx-access.log', 'replace', 'request_time', 'time', 'uri', 'utf-8']

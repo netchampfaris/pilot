@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/app/validator/dependency_declarations.py
+# hypothesis_version: 6.163.1
+
+['/', 'App', 'bench', 'frappe', 'frappe-dependencies', 'hooks.py', 'pyproject.toml', 'rb', 'required_apps', 'tool']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/settings/config.py
+# hypothesis_version: 6.163.1
+
+[',', 'access_key', 'action', 'all', 'allow_developer_mode', 'api_base', 'api_key', 'bench', 'block', 'body_limit', 'bucket', 'conditions', 'count', 'custom_rules', 'default', 'default_branch', 'deny', 'description', 'disconnect', 'enabled', 'exclusions', 'exempt_paths', 'field', 'firewall', 'header_name', 'http_port', 'inbound_threshold', 'inspect_responses', 'ip', 'llm', 'match', 'max_tokens', 'mode', 'model', 'name', 'operator', 'paranoia', 'provider', 'queues', 'region', 'rules', 's3', 'secret_key', 'socketio_port', 'value', 'waf', 'workers']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/apps.py
+# hypothesis_version: 6.163.1
+
+[400, 404, 409, 422, 500, '.git', '/<name>', '/apps', '/fetch', 'BENCH_ROOT', 'app_fetch_failed', 'app_install_failed', 'app_not_found', 'app_removal_failed', 'apps', 'apps_unavailable', 'branch', 'invalid_app', 'invalid_repository', 'invalid_sites', 'malformed_request', 'marketplace', 'marketplace_app', 'name', 'repo', 'sites']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/internal/tasks/process.py
+# hypothesis_version: 6.163.1
+
+[b'1', 0.05, 3.0, '-m', '1', 'BENCH_TASK_LAUNCH_ID', 'BENCH_TASK_READY_FD', 'callbacks.json', 'changed', 'code', 'failure', 'finished_at', 'is uncertain', 'pid', 'pidfd_open', 'pidfd_send_signal', 'process.json', 'secrets.json', 'task_interrupted']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/site/provisioning.py
+# hypothesis_version: 6.163.1
+
+[365, 3600, 'Bench', 'Site', 'apps.txt', 'assets', 'none', 'pilot_auth_token', 'pilot_endpoint', 'site_config.json']

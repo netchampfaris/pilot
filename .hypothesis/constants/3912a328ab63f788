@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/managers/database/base.py
+# hypothesis_version: 6.163.1
+
+[0.5, 30.0, '--formula', 'brew', 'is-active', 'list', 'reset-failed', 'restart', 'services', 'start', 'started', 'stop']

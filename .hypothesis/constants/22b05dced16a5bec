@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/site/config.py
+# hypothesis_version: 6.163.1
+
+[3306, '-', '--batch', '--host=127.0.0.1', '--site', '--skip-column-names', '-e', '-m', '/tmp/mysql.sock', '1', '127.0.0.1', 'PYTHONPATH', '_', '_key', 'access_key', 'accesskey', 'api_key', 'apikey', 'authorization', 'backup_retention', 'bearer', 'bin', 'cookie', 'credential', 'db_host', 'db_name', 'db_password', 'db_port', 'db_socket', 'db_type', 'db_user', 'domains', 'dsn', 'encryptionkey', 'env', 'frappe', 'host_name', 'installed_apps', 'key', 'list-apps', 'localhost', 'mariadb', 'mysql', 'password', 'pilot_auth_token', 'pilot_endpoint', 'private_key', 'privatekey', 'python', 'secret', 'secretkey', 'session_id', 'site_config.json', 'sites', 'ssl', 'token']

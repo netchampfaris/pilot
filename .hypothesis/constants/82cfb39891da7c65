@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/editor/routes/state.py
+# hypothesis_version: 6.163.1
+
+[413, 1000000, '.editor-state', '/state', 'BENCH_ROOT', 'State exceeds 1MB.', 'ok', 'too_large', '{}']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/bench/migration/state.py
+# hypothesis_version: 6.163.1
+
+['Backing up', 'Completed', 'Migrating', 'MigrationOperation', 'Needs attention', 'Preparing', 'Recovering sites', 'Restarting services', 'Retrying', 'Revert failed', 'Reverted', 'Updating apps', 'apps', 'backing_up', 'completed', 'migrate', 'migrating', 'migration-backup', 'needs_attention', 'preparing', 'restart-services', 'restarted', 'restarting', 'retrying', 'revert-apps', 'revert-site', 'revert_failed', 'reverted', 'reverting_apps', 'reverting_sites', 'site', 'update', 'updating']

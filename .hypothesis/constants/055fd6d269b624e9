@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/sites/shared.py
+# hypothesis_version: 6.163.1
+
+[400, 404, 409, 422, 500, 'Site not found.', 'already', 'clashes', 'internal_error', 'invalid_fields', 'invalid_site_name', 'invalid_task', 'malformed_body', 'name', 'site_config.json', 'site_name_conflict', 'site_not_found', 'sites', 'task_conflict']

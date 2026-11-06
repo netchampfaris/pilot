@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/managers/systemd_user.py
+# hypothesis_version: 6.163.1
+
+['--now', '--user', '.config', 'XDG_RUNTIME_DIR', 'daemon-reload', 'enable', 'systemctl', 'systemd', 'user']

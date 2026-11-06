@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/database/__init__.py
+# hypothesis_version: 6.163.1
+
+[3306, 5432, '.', '..', '/', 'BenchConfig', 'BinlogFile', 'BinlogStatus', 'Database', 'DatabaseSize', 'LockWaitRow', 'LockWaitStatus', 'MariaDB', 'PostgreSQL', 'QueryResult', 'SQLite', 'TableSize', '\\', 'db', 'db_host', 'db_name', 'db_password', 'db_port', 'db_socket', 'db_type', 'db_user', 'localhost', 'make_database', 'make_site_database', 'mariadb', 'postgres', 'read_site_config', 'site_config.json', 'site_database_name', 'sites', 'sqlite', 'trust_auth']

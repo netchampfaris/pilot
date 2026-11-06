@@ -1,0 +1,1 @@
+import{ht as e,t,x as n}from"./_plugin-vue_export-helper-n7OWsGQ7.js";var r={},i={class:`fui-skeleton animate-pulse bg-surface-gray-3`,"aria-hidden":`true`};function a(t,r){return e(),n(`div`,i)}var o=t(r,[[`render`,a]]);export{o as t};

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/tasks/wizard_setup.py
+# hypothesis_version: 6.163.1
+
+['Initialize bench', 'Set up production', '__main__', 'init', 'production', 'wizard-setup']

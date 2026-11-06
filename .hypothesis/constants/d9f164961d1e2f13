@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/managers/processes/local.py
+# hypothesis_version: 6.163.1
+
+[0.5, 120, '\x1b[0m', '\x1b[32m', '\x1b[33m', '\x1b[34m', '\x1b[35m', '\x1b[36m', '\x1b[92m', '\x1b[93m', '\x1b[96m', '--site', '-H', '-ltnp', '127.0.0.1', 'Bench', 'ProcessManager', 'Procfile', 'admin', 'admin-ui', 'all', 'bench.pid', 'bin', 'clear-cache', 'frappe', 'pid=(\\d+)', 'python', 'redis_cache', 'redis_queue', 'reload.request', 'replace', 'ss', 'systemd', 'watch', 'web', 'workload']

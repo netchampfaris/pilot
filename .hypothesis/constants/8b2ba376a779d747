@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/site/commands.py
+# hypothesis_version: 6.163.1
+
+['--admin-password', '--db-host', '--db-port', '--db-root-password', '--db-root-username', '--db-socket', '--db-type', '--site', '--skip-failing', '--with-private-files', '--with-public-files', '--yes', 'Site', 'clear-cache', 'frappe', 'migrate', 'new-site', 'postgres', 'reinstall', 'restore', 'socket_auth', 'sqlite']

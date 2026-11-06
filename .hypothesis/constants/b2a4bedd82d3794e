@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/internal/tasks/args.py
+# hypothesis_version: 6.163.1
+
+[1024, '-', '[redacted]', '_', 'admin_password', 'credential', 'db_file', 'http', 'https', 'new-site', 'new-site-from-backup', 'password', 'private_files', 'private_key', 'public_files', 'rb', 'reinstall-site', 'secret', 'sha256', 'token']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/site/uptime_monitoring_config.py
+# hypothesis_version: 6.163.1
+
+['Bench', 'Bench | None', 'site-uptime.service', 'site-uptime.timer', 'system', 'uptime', 'uptime.json.log']

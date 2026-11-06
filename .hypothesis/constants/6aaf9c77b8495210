@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/site/backups.py
+# hypothesis_version: 6.163.1
+
+['.', '/', 'Site', '\\', '^(\\d{8}_\\d{6})', 'backups', 'private', 'retention', 'schedule', 'scheme', 'site_config.json']

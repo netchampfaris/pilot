@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/site/__init__.py
+# hypothesis_version: 6.163.1
+
+['--force', 'App', 'Bench', 'Site', 'SiteBackups', 'SiteDomains', 'SiteMigrationBackup', 'drop-site', 'frappe', 'maintenance_mode', 'pause_scheduler', 'site_config.json']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/pilot/core/app/__init__.py
+# hypothesis_version: 6.163.1
+
+['-', '--cwd', '.git', '/', 'App', 'Bench', 'NewAppOptions | None', '[a-z][a-z0-9_]*', '_', 'apps', 'apps.txt', 'branch', 'build', 'frappe', 'hooks.py', 'make-app', 'n', 'name', 'package.json', 'project', 'pyproject.toml', 'raw', 'repo', 'y', 'yarn']

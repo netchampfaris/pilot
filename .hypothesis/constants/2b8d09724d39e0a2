@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/pilot/admin/backend/api/v1/sites/__init__.py
+# hypothesis_version: 6.163.1
+
+['apps', 'backups', 'central', 'configuration', 'core', 'domains', 'monitoring', 'sites', 'sites_bp', 'uptime']
