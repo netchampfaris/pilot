@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/config/lite_mode.py
+# hypothesis_version: 6.169.0
+
+[300, 500, 600, 5000, 'LiteModeConfig', 'enabled', 'job_drain_seconds', 'restart_after_jobs', 'restart_idle_seconds']

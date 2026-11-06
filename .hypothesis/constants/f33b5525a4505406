@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/patches/add_mail_use_ssl.py
+# hypothesis_version: 6.169.0
+
+['*', '__main__', 'bench.toml', 'mail_server', 'sites', 'use_ssl', 'use_tls']

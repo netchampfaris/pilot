@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/config/route.py
+# hypothesis_version: 6.169.0
+
+['RoutePolicy', 'client_ip_source', 'direct', 'http', 'https', 'origin_scheme', 'proxy_protocol_v2', 'public_scheme', 'x_forwarded_for']

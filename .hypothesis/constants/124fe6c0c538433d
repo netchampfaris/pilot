@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/providers/site_monitoring.py
+# hypothesis_version: 6.169.0
+
+[1000000, 'Jobs', 'Requests', 'average', 'avg_job_duration', 'avg_request_duration', 'count', 'db', 'db_name', 'duration', 'ip', 'job', 'logs', 'method', 'monitor.json.log', 'now', 'path', 'query', 'query_time', 'report', 'request', 'requests_over_time', 'site', 'slowest_jobs', 'slowest_queries', 'slowest_reports', 'slowest_requests', 'time', 'timestamp', 'top_ips', 'top_jobs', 'top_paths', 'transaction_type', 'window', 'window_seconds']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/internal/password_hash.py
+# hypothesis_version: 6.169.0
+
+[600000, '$', 'pbkdf2-sha256', 'sha256']

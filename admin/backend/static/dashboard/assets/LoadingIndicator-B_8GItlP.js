@@ -1,0 +1,1 @@
+import{A as e,_ as t,ht as n,kn as r,tr as i,y as a}from"./_plugin-vue_export-helper-n7OWsGQ7.js";import{s as o}from"./client-EB5Yu37v.js";var s=e({__name:`LoadingIndicator`,props:{scale:{default:100}},setup(e){let s=e,c=t(()=>s.scale===100?void 0:{scale:`${s.scale}%`});return(e,t)=>(n(),a(r(o),{style:i(c.value)},null,8,[`style`]))}});export{s as t};

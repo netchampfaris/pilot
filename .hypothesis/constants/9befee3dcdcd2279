@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/sites/uploads.py
+# hypothesis_version: 6.169.0
+
+[201, 409, 422, '/<name>/uploads', 'BENCH_ROOT', 'filename', 'files', 'invalid_upload', 'offset', 'received', 'size', 'upload_offset']

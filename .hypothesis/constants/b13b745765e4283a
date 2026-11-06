@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/bench/migration/diagnosis.py
+# hypothesis_version: 6.169.0
+
+[-4000, 'Duplicate entry', "Table '", 'Truncated incorrect', 'Unknown column', 'column', 'data_truncated', 'database_engine', "doesn't exist", 'duplicate_entry', 'failure_kind', 'mariadb', 'message', 'migrate', 'missing_table', 'output_excerpt', 'patch', 'phase', 'resolver_id', 'string_to_number', 'table', 'unknown', 'unknown_column']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/app/repository.py
+# hypothesis_version: 6.169.0
+
+['--branch', '--depth', '--depth=1', '--hard', '--heads', '--quiet', '--symref', '--unshallow', '-C', '-c', '1', 'App', 'FETCH_HEAD', 'GitRepo', 'HEAD', '[0-9a-f]{7,40}', 'add', 'branch', 'checkout', 'clone', 'commit', 'develop', 'fetch', 'git', 'init', 'ls-remote', 'master', 'name', 'origin', 'ref: refs/heads/', 'refs/heads/', 'remote', 'repo', 'reset', 'tag', 'version', 'version-15', 'version-16']

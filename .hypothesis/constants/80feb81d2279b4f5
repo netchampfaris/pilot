@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/site/restore.py
+# hypothesis_version: 6.169.0
+
+[4096, '-', '--strip', '--wildcards', '-files.tar', '-files.tgz', '-private-files.tar', '-private-files.tgz', '-z', '.sql', '.sql.gz', '.tgz', '2', 'atlas_', 'config', 'database', 'db_', 'email_sender_name', 'encryption_key', 'host_name', 'installed_apps', 'maintenance_mode', 'mariadb', 'pause_scheduler', 'pilot_', 'private', 'public', 'rds_db', 'redis_', 'replace', 'tar', 'xf']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/tasks/restore_site.py
+# hypothesis_version: 6.169.0
+
+['Download', 'Prepare', '__main__', 'config', 'database', 'fetch', 'mariadb', 'private', 'public', 'restore', 'restore-site', 'site', 'upload_dir', 'uploaded files']

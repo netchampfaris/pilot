@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/providers/logs.py
+# hypothesis_version: 6.169.0
+
+[b'\n', 0.2, 200, 5000, 65536, '*.log', '-l', '/', '\\', 'logs', 'r', 'rb', 'replace', 'wc']

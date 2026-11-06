@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/internal/cli/__init__.py
+# hypothesis_version: 6.169.0
+
+['CliContext', 'build_context', 'find_bench_root', 'main', 'strip_bench_flag']

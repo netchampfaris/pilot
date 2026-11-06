@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/tasks/backup_site.py
+# hypothesis_version: 6.169.0
+
+['__main__', 'backup', 'backup-site', 'backup_upload', 'event', 'failed', 'files', 'finished_at', 'offsite', 'pruned', 'retention', 'returncode', 'site', 'status', 'success', 'timestamp', 'with_files']

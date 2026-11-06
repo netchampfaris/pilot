@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/types/tasks.py
+# hypothesis_version: 6.169.0
+
+['delta', 'done', 'error']

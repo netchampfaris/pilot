@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/core/editor/search.py
+# hypothesis_version: 6.169.0
+
+[2000, '\x01', '&', '--', '--case-sensitive', '--fixed-strings', '--ignore-case', '--json', '--max-columns', '--max-count', '--max-filesize', '--word-regexp', '-E', '2M', '500', 'Search failed.', '\\', 'data', 'end', 'file', 'g', 'gI', 'line', 'line_number', 'lines', 'match', 'matches', 'path', 'rg', 'sed', 'start', 'submatches', 'text', 'type', 'utf-8']

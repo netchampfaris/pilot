@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/mariadb_memory.py
+# hypothesis_version: 6.169.0
+
+[0.1, 0.2, 0.5, 0.65, 0.7, 0.972, 128, 218, 512, 700, 1024, 2048, 4096, '-', '_', 'innodb_log_file_size', 'key_buffer_size', 'max_connections']

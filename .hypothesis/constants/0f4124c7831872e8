@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/managers/systemd_user.py
+# hypothesis_version: 6.169.0
+
+['--collect', '--now', '--quiet', '--scope', '--user', '-p', '.config', 'XDG_RUNTIME_DIR', 'daemon-reload', 'enable', 'memory', 'systemctl', 'systemd', 'systemd-run', 'user']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/internal/tasks/args.py
+# hypothesis_version: 6.169.0
+
+[1024, '-', '[redacted]', '_', 'access_key', 'branch', 'credential', 'db_file', 'http', 'https', 'new-site-from-backup', 'password', 'private_files', 'private_key', 'public_files', 'rb', 'repo', 'repo_url', 'secret', 'sha256', 'target_branch', 'token']

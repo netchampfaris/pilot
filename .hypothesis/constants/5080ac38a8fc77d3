@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/setup/__init__.py
+# hypothesis_version: 6.169.0
+
+[0.1, 400, 404, 409, 422, 500, 503, '.setup-configuration', '/actions/finish', '/actions/start', '/configuration', '/framework-branches', 'BENCH_ROOT', 'BenchConfig', 'Idempotency-Key', 'WIZARD_SERVER', 'admin_enabled', 'bench.toml', 'bench_name', 'branches', 'engine', 'invalid_setup_task', 'invalid_task', 'malformed_request', 'read_defaults', 'running_setup_task', 'setup', 'setup_active', 'setup_bp', 'setup_not_complete', 'setup_start_failed', 'setup_task_mismatch', 'setup_task_required', 'state', 'task_conflict', 'task_id', 'task_id is required.', 'task_not_found', 'task_unavailable', 'wizard-setup', 'wizard_marker_path']

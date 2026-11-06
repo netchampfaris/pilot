@@ -1,0 +1,1 @@
+function e(e){if(!e)return[];if(typeof e==`string`)return[e];if(Array.isArray(e))return e.filter(Boolean).map(String);let t=e.messages;if(Array.isArray(t)&&t.length){let e=t.filter(Boolean).map(String);if(e.length)return e}else if(typeof t==`string`&&t)return[t];return e.message?[e.message]:[]}export{e as t};

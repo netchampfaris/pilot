@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/site/uptime_monitoring_config.py
+# hypothesis_version: 6.169.0
+
+['Bench', 'Bench | None', 'pilot-uptime.service', 'pilot-uptime.timer', 'system', 'uptime', 'uptime.json.log']

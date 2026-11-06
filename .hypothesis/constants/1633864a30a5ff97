@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/integrations/frappe_cloud.py
+# hypothesis_version: 6.169.0
+
+[b'{}', 300, '/', 'User-Agent', '[]', '_server_messages', 'backup', 'code', 'domain', 'get_backup_status', 'get_backups', 'get_download_links', 'get_running_backup', 'get_status', 'http', 'https', 'message', 'pilot', 'request_access', 'revoke', 'start', 'take_backup', 'wb']

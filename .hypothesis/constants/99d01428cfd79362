@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/internal/jwks_cache.py
+# hypothesis_version: 6.169.0
+
+['.jwks-cache.json', 'User-Agent', 'bench-admin', 'fetched_at', 'jwks', 'jwks-cache-refresh', 'url', 'utf-8']

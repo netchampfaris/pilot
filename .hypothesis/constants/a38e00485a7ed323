@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/bench/production.py
+# hypothesis_version: 6.169.0
+
+['\nDevelopment admin:', 'Bench', 'enabled', 'http', 'https', 'nginx', 'process_manager', 'production', 'raw', 'systemd']

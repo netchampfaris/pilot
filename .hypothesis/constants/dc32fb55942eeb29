@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/core.py
+# hypothesis_version: 6.169.0
+
+[503, '*', '/bootstrap', '/health', 'BENCH_ROOT', 'admin', 'bin', 'central', 'central_audience', 'central_url', 'core', 'db_type', 'developer_mode', 'enabled', 'env', 'mode', 'name', 'ok', 'pending', 'production', 'python', 'setup', 'status', 'task_worker', 'utf-8', 'wizard-setup']

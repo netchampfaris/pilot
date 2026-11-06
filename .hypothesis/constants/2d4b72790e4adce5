@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/sites/__init__.py
+# hypothesis_version: 6.169.0
+
+['apps', 'backups', 'central', 'configuration', 'core', 'domains', 'frappe_cloud', 'monitoring', 'restore', 'sites', 'sites_bp', 'storage', 'uploads', 'uptime']

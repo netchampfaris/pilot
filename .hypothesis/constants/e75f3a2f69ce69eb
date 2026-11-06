@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/database/configurations.py
+# hypothesis_version: 6.169.0
+
+[1024, 'MB', 'action', 'boolean', 'changed', 'configuration', 'current', 'current_mb', 'description', 'dynamic', 'dynamic_max', 'edit', 'edit_reason', 'editable', 'enabled', 'engine', 'integer', 'label', 'managed', 'mariadb', 'max', 'max_connections', 'min', 'name', 'performance_schema', 'readable', 'reason', 'recommended', 'requires_restart', 'section', 'step', 'supported', 'unit', 'value', 'value_type', 'variables']

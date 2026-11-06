@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/internal/cli/registry.py
+# hypothesis_version: 6.169.0
+
+['--bench', '--verbose', '--yes', '-b', '-y', '.', 'Frappe bench manager', 'NAME', 'No benches found.', 'Teardown commands.', '_command_cls', '_help_printer', 'admin', 'bench.toml', 'benches', 'command', 'name', 'pilot', 'remove', 'setup', 'store_true', 'tasks']

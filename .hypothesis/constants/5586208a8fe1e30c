@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/sites/frappe_cloud.py
+# hypothesis_version: 6.169.0
+
+[403, 422, 'BENCH_ROOT', 'approval_url', 'code', 'created_at', 'forbidden', 'frappe_cloud_error', 'job_url', 'name', 'remote_site', 'size', 'start', 'status']

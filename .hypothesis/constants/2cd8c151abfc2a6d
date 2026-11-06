@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/internal/tasks/payload.py
+# hypothesis_version: 6.169.0
+
+[',', '-m', ':', 'args', 'bench_root', 'callbacks.json', 'command', 'command_argv', 'exit_code', 'failure', 'finished_at', 'on_cancel', 'on_failure', 'on_success', 'queued_at', 'secrets.json', 'started_at', 'task_id']

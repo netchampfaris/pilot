@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/config/backup.py
+# hypothesis_version: 6.169.0
+
+['fifo', 'gfs', 'keep_daily', 'keep_last', 'keep_monthly', 'keep_weekly', 'keep_yearly']

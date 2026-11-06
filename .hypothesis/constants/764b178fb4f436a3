@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/managers/platform.py
+# hypothesis_version: 6.169.0
+
+['"', '#', '--cflags', '--libs', '--prefix', '--quiet', '-a', '-l', '-n', '/bin', '/etc/fstab', '/etc/hosts', '/etc/nginx/conf.d', '/etc/os-release', '/sbin', '/usr/bin', '/usr/local/bin', '/usr/local/sbin', '/usr/sbin', '1', '=', 'Darwin', 'ID', 'ID_LIKE', 'MYSQLCLIENT_CFLAGS', 'MYSQLCLIENT_LDFLAGS', 'PATH', 'PRETTY_NAME', 'arch', 'bin', 'brew', 'debian', 'disable', 'enable', 'fedora', 'geteuid', 'is-active', 'linux', 'macOS', 'macos', 'mariadb', 'mariadb_config', 'mysql_config', 'sudo', 'systemctl', 'systemd', 'tee', 'true', 'ubuntu', 'umount', 'unknown']

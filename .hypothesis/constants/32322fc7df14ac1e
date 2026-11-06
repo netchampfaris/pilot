@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/sites/apps.py
+# hypothesis_version: 6.169.0
+
+[403, 422, 503, '/<name>/apps', '/<name>/apps/<app>', '/<name>/marketplace', 'App | None', 'BENCH_ROOT', 'Could not read task.', 'app', 'app_not_installed', 'apps', 'bench_scope_required', 'branch', 'can_disable', 'cannot_disable', 'cannot_enable', 'commit', 'completed', 'description', 'disable', 'disabled', 'enabled', 'failed', 'forbidden', 'force', 'frappe', 'has_local_changes', 'invalid_app', 'invalid_repository', 'missing_app', 'mode', 'name', 'needs_attention', 'operation', 'operation_id', 'registry_unavailable', 'repo', 'revert_failed', 'reverted', 'running', 'site', 'sites', 'sites.site_task', 'success', 'task_id', 'title', 'true', 'version']

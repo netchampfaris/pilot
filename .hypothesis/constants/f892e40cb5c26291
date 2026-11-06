@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/internal/cli/command.py
+# hypothesis_version: 6.169.0
+
+['Bench', 'bench', 'skip_confirm']

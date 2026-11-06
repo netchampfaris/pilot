@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/managers/letsencrypt.py
+# hypothesis_version: 6.169.0
+
+['%b %d %H:%M:%S %Y %Z', ',', ', ', '--agree-tos', '--cert-name', '--deploy-hook', '--email', '--expand', '--non-interactive', '--quiet', '--webroot', '-d', '-enddate', '-ext', '-in', '-noout', '-p', '-w', '.', '.local', '.localhost', '/bin/mkdir', '/usr/bin/certbot', '/usr/bin/openssl', '/usr/bin/test', 'Bench', 'DNS:', 'Site', 'SiteConfig', 'certbot', 'certonly', 'letsencrypt', 'local', 'localhost', 'mkdir', 'notAfter=', 'openssl', 'renew', 'subjectAltName', 'test', 'x509']

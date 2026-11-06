@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/middleware.py
+# hypothesis_version: 6.169.0
+
+[401, 403, 429, 503, 3600, '*', 'Admin is disabled.', 'Authorization', 'Bearer ', 'Lax', 'TRUSTED_PROXY_PEERS', 'X-Real-IP', '_auth_policy', '_site_scope_resolver', 'actor', 'actor_jti', 'admin_disabled', 'authenticated', 'bench', 'enabled', 'forbidden', 'ip', 'jti', 'jwt_claims', 'name', 'open', 'rate_limit_exceeded', 'rate_limit_windows', 'scope', 'sid', 'site', 'sites', 'unknown', 'user.email']

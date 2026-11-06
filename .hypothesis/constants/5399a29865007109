@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/commands/apps/install.py
+# hypothesis_version: 6.169.0
+
+['Site', 'Site name.', 'apps', 'install-app', 'site']

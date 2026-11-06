@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/central_bootstrap.py
+# hypothesis_version: 6.169.0
+
+[0.1, '--bench-root', 'BenchConfig', '__main__', 'initial_jwks_cache', 'jwks_url', 'mariadb']

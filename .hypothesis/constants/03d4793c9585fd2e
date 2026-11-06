@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/server/monitoring_proc.py
+# hypothesis_version: 6.169.0
+
+[100, 'buffers', 'cached', 'cached_bytes', 'disk', 'free_bytes', 'idle', 'io_counters', 'iowait', 'irq', 'lo', 'lo0', 'nice', 'percent', 'pss', 'read_bytes', 'rx_bytes', 'softirq', 'steal', 'swap_used_bytes', 'system', 'total_bytes', 'tx_bytes', 'used_bytes', 'user', 'uss', 'write_bytes']

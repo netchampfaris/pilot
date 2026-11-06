@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/bench/__init__.py
+# hypothesis_version: 6.169.0
+
+[120, ', ', '--site', '-m', '.', '.staging', 'App', 'Bench', 'Database', 'Database | None', 'HostnameAliases', 'MigrationStore', 'NewAppOptions | None', 'NotificationStore', 'Site', 'SiteConfig', 'SiteStorageCollector', 'TaskRunner', 'all', 'apps', 'assets', 'bin', 'clear-cache', 'config', 'env', 'frappe', 'frappe has no runner', 'groups', 'lite mode', 'lite_mode_disabled', 'logs', 'mariadb', 'pids', 'python', 'reason', 'restores', 'runner.py', 'sites', 'tmp', 'uploads']

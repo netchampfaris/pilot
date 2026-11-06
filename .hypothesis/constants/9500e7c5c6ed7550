@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/internal/tasks/state.py
+# hypothesis_version: 6.169.0
+
+['Task command failed.', 'code', 'command_failed', 'task_interrupted']

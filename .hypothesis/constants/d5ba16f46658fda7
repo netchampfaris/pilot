@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/internal/template.py
+# hypothesis_version: 6.169.0
+
+['Empty expression', 'Missing if condition', 'Missing {% endif %}', 'Template', '\\1', '__builtins__', 'bool', 'elif', 'else', 'endfor', 'endif', 'enumerate', 'float', 'for', 'if', 'int', 'len', 'max', 'min', 'range', 'str', 'sum', 'utf-8', 'zip', '{#', '{%', '{{']

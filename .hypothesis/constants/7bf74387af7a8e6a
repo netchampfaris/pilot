@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/ssh_keys.py
+# hypothesis_version: 6.169.0
+
+[400, 404, 409, 422, '/<fingerprint>', 'BENCH_ROOT', 'added', 'comment', 'event', 'fingerprint', 'invalid_ssh_key', 'keys', 'malformed_request', 'public_key', 'removed', 'ssh_key', 'ssh_key_not_found', 'ssh_keys', 'type']

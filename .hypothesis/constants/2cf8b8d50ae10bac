@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/sites/central.py
+# hypothesis_version: 6.169.0
+
+[400, 403, 500, 502, 503, '/', '/<name>/account-url', 'POST', 'central_endpoint', 'central_rejected', 'central_unreachable', 'url']

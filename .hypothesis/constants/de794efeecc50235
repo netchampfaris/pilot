@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/config/common.py
+# hypothesis_version: 6.169.0
+
+['CommonConfig', 'CommonConfig | None', 'admin', 'admin_user', 'bootstrapped', 'central', 'common_config.toml', 'email', 'enabled', 'endpoint', 'existing', 'frappe_cloud', 'host', 'hostname_aliases', 'jwks_audience', 'jwks_url', 'letsencrypt', 'logs_enabled', 'mariadb', 'metrics_enabled', 'pattern', 'port', 'postgres', 'protocol_v2', 'proxy', 'raw', 'redirect', 'resource_limits', 'root_password', 'rw', 'socket_path', 'target', 'telemetry', 'token', 'type', 'url', 'utf-8', 'webroot_path']

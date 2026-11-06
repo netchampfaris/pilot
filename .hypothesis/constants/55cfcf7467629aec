@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/build_memory.py
+# hypothesis_version: 6.169.0
+
+[0.85, 512, 1024, '/proc/meminfo', 'MemAvailable:', 'SwapFree:']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/config/monitor.py
+# hypothesis_version: 6.169.0
+
+['db-stats.log', 'logs', 'slow-queries.json', 'system', 'system-stats.log']

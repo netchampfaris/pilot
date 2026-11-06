@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/internal/tasks/store.py
+# hypothesis_version: 6.169.0
+
+['.host-resources', 'TaskStore', 'args', 'backup-site', 'callbacks.json', 'command', 'delete-backup', 'get-and-install-app', 'host:', 'idempotency_digest', 'install-app', 'meta.json', 'pid', 'process.json', 'queue-sequence', 'queue_sequence', 'request_fingerprint', 'resource_key', 'resource_keys', 'site', 'site:', 'sites', 'status', 'store', 'task_id', 'tasks', 'uninstall-app', 'utf-8']

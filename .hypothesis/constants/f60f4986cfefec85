@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/providers/bench.py
+# hypothesis_version: 6.169.0
+
+[0.5, 200, 301, 308, '/api/v1/health', '127.0.0.1', 'GET', 'Host', 'bench.toml', 'http', 'http_port', 'https', 'nginx', 'site_config.json', 'sites']

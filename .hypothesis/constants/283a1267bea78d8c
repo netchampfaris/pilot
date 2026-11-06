@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/integrations/s3/backups.py
+# hypothesis_version: 6.169.0
+
+[25000, '-database.sql.gz', '-files.tar', '-private-files.tar', '.backup-metadata', 'OffsiteBackup', '_', 'database', 'files', 'private_files', 'site_config', 'unknown']

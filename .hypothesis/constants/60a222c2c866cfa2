@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/sites/core.py
+# hypothesis_version: 6.169.0
+
+[503, 8000, '/<name>', '/<name>/login', '/wildcard-domains', '1', 'BENCH_ROOT', 'Could not read site.', 'GET', 'Idempotency-Key', 'active_apps', 'admin_password', 'admin_tls', 'apps', 'bench:update', 'broken', 'domains', 'exists', 'framework_branch', 'frappe_branch', 'hint', 'http_port', 'installable_apps', 'keep_old_hostname', 'make_primary', 'name', 'new_name', 'nginx_enabled', 'no_backup', 'operation_id', 'provisioning', 'setup_complete', 'ssl', 'task_id', 'tls', 'true', 'url']

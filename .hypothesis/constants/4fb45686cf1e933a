@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/site/uptime_monitoring.py
+# hypothesis_version: 6.169.0
+
+[5.0, 200, 1000, '.alerts', '.uptime-placeholder', '/api/method/ping', 'Bench', 'Error', 'Sites', 'User-Agent', '__main__', 'a', 'bench', 'benches', 'context', 'event', 'message', 'pilot-uptime-monitor', 'response_ms', 'site', 'site_down', 'sites', 'status_code', 'sustained_seconds', 'time', 'up']

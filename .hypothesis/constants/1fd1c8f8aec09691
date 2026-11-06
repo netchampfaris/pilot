@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/editor/routes/files.py
+# hypothesis_version: 6.169.0
+
+['*', '/create', '/delete', '/file', '/files', '/rename', '/tree', 'ETag', 'If-Match', 'content', 'etag', 'file', 'from', 'ok', 'path', 'to', 'type']

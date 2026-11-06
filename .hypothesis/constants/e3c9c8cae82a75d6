@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/managers/waf.py
+# hypothesis_version: 6.169.0
+
+['4.25.0', 'Bench | None', 'crs-setup.conf', 'crs.tar.gz', 'data', 'modsecurity', 'modsecurity-crs', 'modsecurity-nginx', 'rules', 'system', 'waf']

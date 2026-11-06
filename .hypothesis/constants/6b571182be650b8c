@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/apps.py
+# hypothesis_version: 6.169.0
+
+[400, 404, 409, 422, 500, 503, '.git', '/<name>', '/apps', '/fetch', 'BENCH_ROOT', 'Choose a branch.', 'Idempotency-Key', 'app_fetch_failed', 'app_install_failed', 'app_not_found', 'app_removal_failed', 'apps', 'apps_unavailable', 'branch', 'branch_switch_failed', 'invalid_app', 'invalid_branch', 'invalid_repository', 'invalid_sites', 'malformed_request', 'marketplace', 'marketplace_app', 'name', 'registry_unavailable', 'repo', 'sites', 'task_conflict']

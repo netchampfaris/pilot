@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/bench/audit_log.py
+# hypothesis_version: 6.169.0
+
+['actor_jti', 'audit', 'jti', 'logged_at', 'site', 'status', 'type']

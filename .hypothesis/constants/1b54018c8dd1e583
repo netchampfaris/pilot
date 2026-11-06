@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/setup/database.py
+# hypothesis_version: 6.169.0
+
+[65535, 'admin_user', 'bench.toml', 'engine', 'existing', 'host', 'invalid', 'localhost', 'mariadb', 'mariadb_socket_path', 'password', 'port', 'postgres', 'root', 'valid', 'will_install']

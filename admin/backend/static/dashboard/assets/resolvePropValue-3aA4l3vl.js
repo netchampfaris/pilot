@@ -1,0 +1,1 @@
+function e(e,n,r,i){return n!==void 0&&Object.prototype.hasOwnProperty.call(e,n)?e[n]:(t(e,n,r,i),e[r])}function t(e,t,n,{component:r,prop:i}){}export{e as t};

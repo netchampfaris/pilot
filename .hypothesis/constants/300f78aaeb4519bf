@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/bench/config_files.py
+# hypothesis_version: 6.169.0
+
+[1024, '--db-root-password', '--db-root-username', 'Bench', 'S3Config', 'maintenance_mode', 'monitor', 'postgres', 'redis_cache', 'redis_queue', 'redis_socketio', 's3_access_key', 's3_bucket', 's3_provider', 's3_region', 's3_secret_key', 'socketio_backend', 'socketio_port', 'sqlite', 'trust_auth', 'webserver_port']

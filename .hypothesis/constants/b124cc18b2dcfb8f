@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/commands/apps/remove.py
+# hypothesis_version: 6.169.0
+
+['App', 'App name to remove.', 'app', 'remove-app']

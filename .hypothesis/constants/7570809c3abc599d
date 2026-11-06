@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/bench/setup.py
+# hypothesis_version: 6.169.0
+
+['--now', 'Bench', 'Sites:', 'admin', 'disable', 'dns_multitenant', 'domain', 'enabled', 'http', 'https', 'nginx', 'process_manager', 'production', 'raw', 'sudo', 'supervisor', 'systemctl', 'systemd', 'tls']

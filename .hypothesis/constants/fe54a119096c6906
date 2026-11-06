@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/internal/tasks/callbacks.py
+# hypothesis_version: 6.169.0
+
+['/etc/hosts', 'args', 'bench_root', 'callbacks.json', 'cleanup-site-restore', 'disable-site-ssl', 'meta.json', 'on_cancel', 'on_failure', 'on_success', 'operation', 'reload-workers', 'remove-failed-site', 'remove_site', 'restores', 'site', 'site_config.json', 'sites', 'task_id', 'tmp', 'upload_dir', 'uploads', 'web_only']

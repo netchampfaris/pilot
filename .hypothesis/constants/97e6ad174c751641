@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/integrations/git/base.py
+# hypothesis_version: 6.169.0
+
+[401, 403, '.git', '/', ':', 'HEAD', 'git@', 'github', 'https', 'ssh://']

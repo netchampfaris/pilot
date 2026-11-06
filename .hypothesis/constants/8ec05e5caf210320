@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/_vendor/packaging/utils.py
+# hypothesis_version: 6.169.0
+
+['(\\d+)(.*)', '-', '--', '.', '.tar.gz', '.zip', 'InvalidName', 'InvalidSdistFilename', 'NormalizedName', '^[\\w._]+\\Z', '_', 'canonicalize_name', 'canonicalize_version', 'is_normalized_name', 'parse_sdist_filename']

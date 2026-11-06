@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/bench/creator.py
+# hypothesis_version: 6.169.0
+
+[0.2, '\nNext step:', '  pilot start', '127.0.0.1', 'Bench', 'Writing bench.toml', 'admin.port', 'admin_domain', 'admin_enabled', 'admin_password', 'admin_tls', 'bench.toml', 'db_type', 'http_port', 'lite_mode_enabled', 'mariadb']

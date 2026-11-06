@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/core/editor/workspace.py
+# hypothesis_version: 6.169.0
+
+[200, 409, 20000, '\x00', '*', '.', '..', '.git', '/', 'cannot delete root', 'content', 'dir', 'etag', 'file', 'ignored', 'mtime', 'name', 'node_modules', 'path', 'replace', 'size', 'type', 'utf-8']

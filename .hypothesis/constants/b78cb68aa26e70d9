@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/internal/hs256_jwt.py
+# hypothesis_version: 6.169.0
+
+[b'=', ',', '.', ':', 'HS256', 'JWT', 'alg', 'ascii', 'typ']

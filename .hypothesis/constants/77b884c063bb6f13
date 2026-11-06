@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/alerts.py
+# hypothesis_version: 6.169.0
+
+[300, ' / ', ', ', 'Authorization', 'Bench', 'Content-Type', 'From', 'Limit', 'POST', 'Reading', 'Response (ms)', 'Site', 'Status', 'Subject', 'Threshold', 'To', 'application/json', 'assets', 'bench', 'breached_limits', 'context', 'event', 'html', 'image', 'limit', 'message', 'notified', 'pilot-logo.png', 'png', 'reading', 'recorded', 'response_ms', 'since', 'site', 'site_down', 'sites', 'status_code', 'templates', 'threshold', 'time', '—']

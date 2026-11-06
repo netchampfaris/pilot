@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/site/backups.py
+# hypothesis_version: 6.169.0
+
+['--backup-path', '--site', '--with-files', '.', '/', 'Site', '\\', '^(\\d{8}_\\d{6})', 'backup', 'backups', 'frappe', 'retention', 'schedule', 'scheme', 'site_config.json']

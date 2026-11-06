@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/_vendor/packaging/_ranges.py
+# hypothesis_version: 6.169.0
+
+['!=', '(', ')', '+', '.*', '0', '0.dev0', '<', '<=', '==', '>', '>=', 'FULL_RANGE', '[', ']', '_above', '_below', '_cached_dev', '_cached_epoch', '_cached_post', '_cached_pre', 'bounds_for_spec', 'coerce_version', 'filter_by_ranges', 'inclusive', 'inf', 'intersect_ranges', 'kind', 'least_version_above', 'matches_bounds_only', 'range_is_empty', 'resolve_prereleases', 'standard_ranges', 'version', 'wildcard_ranges', '~=']

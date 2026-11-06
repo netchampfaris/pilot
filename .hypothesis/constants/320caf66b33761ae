@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/tasks/revert_site.py
+# hypothesis_version: 6.169.0
+
+['__main__', 'revert-site', 'task_id']

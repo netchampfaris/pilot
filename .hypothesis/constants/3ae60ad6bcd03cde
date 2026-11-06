@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/internal/session.py
+# hypothesis_version: 6.169.0
+
+[140, 365, 3600, '.active-jtis.json', '.revoked-jtis.json', 'Administrator', 'ES256', 'ES384', 'ES512', 'EdDSA', 'HS256', 'PS256', 'PS384', 'PS512', 'RS256', 'RS384', 'RS512', 'admin', 'aud', 'bench', 'central', 'exp', 'iat', 'initial_jwks_cache', 'jti', 'jwks_audience', 'jwks_audience_id', 'jwks_url', 'kid', 'name', 'path', 'pilot_auth_token', 'require', 'rw', 'scope', 'site', 'sub', 'unknown', 'utf-8', 'verify_aud']

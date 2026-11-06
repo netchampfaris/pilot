@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/tasks/callbacks.py
+# hypothesis_version: 6.169.0
+
+['-', '_', '_task_callbacks', 'args', 'on_cancel', 'on_failure', 'on_success', 'operation']

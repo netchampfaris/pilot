@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/server/ssh_keys.py
+# hypothesis_version: 6.169.0
+
+[384, 448, '#', '.authorized_keys-', '.ssh', ':', '>I', 'MD5:', 'authorized_keys', 'ecdsa-sha2-', 'sk-ecdsa-sha2-', 'sk-ssh-', 'ssh-', 'w']

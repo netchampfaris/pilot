@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/bench/runtime.py
+# hypothesis_version: 6.169.0
+
+[7000, '--bench-root', '--port', '--python', '--timeout', '--wizard', '-e', '-m', '7200', 'App', 'Bench', 'PYTHONPATH', 'ProcessManager', 'admin', 'assets', 'backend', 'dashboard', 'frontend', 'install', 'package.json', 'pip', 'pyproject.toml', 'setup.py', 'start', 'static', 'systemd']

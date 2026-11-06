@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/internal/git.py
+# hypothesis_version: 6.169.0
+
+['\x00', '--abort', '--count', '--exact-match', '--format=%s', '--include-untracked', '--is-ancestor', '--porcelain', '--quiet', '--short', '--show-current', '--tags', '--verify', '-1', '-B', '-C', '-e', '-q', '-z', '.git', '0', '@{u}..HEAD', 'FETCH_HEAD', 'GIT_CONFIG_COUNT', 'HEAD', 'No local changes', 'RC', 'branch', 'cat-file', 'checkout', 'describe', 'fetch', 'get-url', 'git', 'log', 'ls-remote', 'merge', 'merge-base', 'never', 'origin', 'pop', 'protocol.ext.allow', 'rebase', 'remote', 'rev-list', 'rev-parse', 'set-url', 'stash', 'status', 'true']

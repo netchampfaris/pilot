@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/integrations/central/client.py
+# hypothesis_version: 6.169.0
+
+['. ', '/', ':', 'Content-Type', 'GET', 'POST', 'X-Pilot-Token', '_server_messages', 'application/json', 'central_auth_token', 'central_endpoint', 'context', 'event_type', 'exception', 'message', 'reference_name']

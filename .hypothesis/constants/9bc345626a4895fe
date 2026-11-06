@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/benches/create.py
+# hypothesis_version: 6.169.0
+
+[409, 422, 500, '--bench-root', '--port', '--timeout', '--wizard', '-m', '-t', '.admin-venv', '/usr/sbin/nginx', '7200', 'BENCH_ADMIN_', 'PYTHONPATH', 'WERKZEUG_', 'admin', 'bench_already_exists', 'bench_start_failed', 'benches.get_bench', 'bin', 'created', 'http', 'invalid_admin_domain', 'invalid_bench', 'name', 'nginx', 'port', 'python', 'scheme', 'server_ip', 'setup_link', 'systemd', 'wizard_at_domain']

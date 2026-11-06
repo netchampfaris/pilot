@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/managers/task/models.py
+# hypothesis_version: 6.169.0
+
+['TaskFailure', 'TaskInfo', 'TaskStatus', 'args', 'code', 'command', 'duration_seconds', 'exit_code', 'failure', 'finished_at', 'is_cancellable', 'message', 'pid', 'queue_position', 'queued_at', 'started_at', 'status', 'task_id']

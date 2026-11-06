@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/integrations/marketplace.py
+# hypothesis_version: 6.169.0
+
+[512, ' -> ', '-c', '0', 'Bench', 'Resolver', 'apps', 'bin', 'branch', 'categories', 'category', 'channel', 'commit', 'dependencies', 'description', 'documentation', 'frappe_core', 'frappe_version', 'is_installable', 'logo_url', 'name', 'nightly', 'python', 'repo', 'required_version', 'stable', 'stars', 'title', 'version', 'website']

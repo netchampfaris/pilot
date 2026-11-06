@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/app/__init__.py
+# hypothesis_version: 6.169.0
+
+['*/page/*/*.island.js', '-', '.git', '/', 'App', 'Bench', 'NewAppOptions | None', '[a-z][a-z0-9_]*', '_', 'apps', 'apps.txt', 'branch', 'components.d.ts', 'description', 'dev', 'email', 'frappe', 'hooks.py', 'make-app', 'n', 'name', 'project', 'publisher', 'pyproject.toml', 'raw', 'repo', 'y']

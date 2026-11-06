@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/site/login.py
+# hypothesis_version: 6.169.0
+
+[2.0, 443, '-c', '.localhost', '/desk', '://', 'Administrator', 'Site', '[A-Za-z0-9._-]+', 'direct', 'domain', 'domains', 'host-resolver', 'host_name', 'http', 'https', 'localhost', 'route', 'ssl']

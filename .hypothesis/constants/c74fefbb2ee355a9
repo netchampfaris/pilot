@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/site/commands.py
+# hypothesis_version: 6.169.0
+
+['--admin-password', '--db-host', '--db-name', '--db-port', '--db-root-password', '--db-root-username', '--db-socket', '--db-type', '--site', '--skip-failing', '--with-private-files', '--with-public-files', '--yes', 'Site', 'clear-cache', 'enable-scheduler', 'frappe', 'locks', 'logs', 'mariadb', 'migrate', 'new-site', 'postgres', 'reinstall', 'restore', 'sqlite']

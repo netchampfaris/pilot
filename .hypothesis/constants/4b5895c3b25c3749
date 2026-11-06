@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/notification/events.py
+# hypothesis_version: 6.169.0
+
+['-', '/insights/analytics', 'Bench', 'Error', 'Server', 'Sites', 'Tasks', 'Updates', 'alert', 'args', 'backup-site', 'build', 'clear-cache', 'command', 'delete-backup', 'drop-site', 'event', 'logs', 'message', 'migrate', 'migration-backup', 'new-site', 'new-site-from-backup', 'reinstall-site', 'restart-database', 'restart-services', 'restore-site', 'retry-update', 'revert-apps', 'revert-migration', 'revert-site', 'setup-letsencrypt', 'setup-nginx', 'site', 'task_failed', 'task_id', 'update', 'update-cli', 'wizard-setup']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/managers/processes/local.py
+# hypothesis_version: 6.169.0
+
+[0.5, '\x1b[0m', '\x1b[32m', '\x1b[33m', '\x1b[34m', '\x1b[35m', '\x1b[36m', '\x1b[92m', '\x1b[93m', '\x1b[96m', '-H', '-ltnp', '127.0.0.1', 'Bench', 'ProcessManager', 'Procfile', 'admin', 'admin-ui', 'bench.pid', 'bin', 'pid=(\\d+)', 'python', 'redis_cache', 'redis_queue', 'reload.request', 'replace', 'ss', 'systemd', 'watch', 'web', 'workload']

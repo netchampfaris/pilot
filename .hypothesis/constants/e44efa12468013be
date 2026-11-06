@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/benches/__init__.py
+# hypothesis_version: 6.169.0
+
+[400, 404, 409, 422, 500, 503, '/<name>', '/<name>/actions/stop', '/domain-options', 'BENCH_ROOT', 'Invalid bench name.', 'admin_domain', 'admin_tls', 'bench.toml', 'bench_action_failed', 'bench_drop_conflict', 'bench_drop_failed', 'bench_not_empty', 'bench_not_found', 'bench_readiness_bp', 'bench_unavailable', 'benches', 'benches_bp', 'db_type', 'domains', 'invalid_admin_domain', 'invalid_admin_tls', 'invalid_bench', 'invalid_bench_name', 'invalid_database', 'malformed_request', 'mariadb', 'name', 'postgres', 'process_manager', 'restart', 'sqlite', 'start', 'stop', 'supervisor', 'supervisord']

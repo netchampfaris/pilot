@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/site/rename.py
+# hypothesis_version: 6.169.0
+
+['://', "Let's Encrypt setup", 'Site', 'SiteConfig', 'bench.toml', 'cert_name', 'default_site', 'domain', 'domains', 'email_sender_name', 'host_name', 'http', 'https', 'name', 'nginx', 'none', 'pilot_auth_token', 'raw', 'route', 'site', 'site_config.json', 'sites', 'ssl', 'the hostname aliases', 'the provider route', 'the site config', 'the site directory']

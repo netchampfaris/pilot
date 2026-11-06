@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/managers/python_assets.py
+# hypothesis_version: 6.169.0
+
+['--app', '--force', '--max-old-space-size', '--production', 'App', 'NODE_OPTIONS', 'PythonEnvManager', 'assets', 'assets-rtl.json', 'assets.json', 'build', 'build-pages.js', 'css', 'css-rtl', 'dist', 'env', 'frappe', 'frontend', 'island', 'js', 'node', 'node_modules', 'public', 'roster', 'rtl_', 'systemd-run', 'toolchain', 'ui', 'vite']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/site/__init__.py
+# hypothesis_version: 6.169.0
+
+['--force', '--no-backup', 'Administrator', 'App', 'Bench', 'Site', 'SiteBackups', 'SiteDomains', 'SiteFrappeCloud', 'SiteMigrationBackup', 'db_type', 'drop-site', 'frappe', 'maintenance_mode', 'mariadb', 'pause_scheduler', 'site_config.json']

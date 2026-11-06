@@ -1,0 +1,1 @@
+var e=(e,t,n)=>{let r=e.map(e=>({label:e,value:e}));return t&&!e.includes(t)&&r.unshift({label:t,value:t}),[...r,{type:`custom`,key:`typed-branch`,label:`Use typed branch`,slot:`typed-branch`,condition:({query:e})=>{let t=e.trim();return!!t&&!r.some(e=>e.value===t)},onClick:({query:e})=>{let t=e.trim();t&&n(t)}}]};export{e as t};

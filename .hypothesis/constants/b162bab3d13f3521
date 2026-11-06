@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/tasks/change_admin_domain.py
+# hypothesis_version: 6.169.0
+
+['__main__', 'change-admin-domain', 'domain']

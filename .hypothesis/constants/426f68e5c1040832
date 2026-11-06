@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/tasks/setup_letsencrypt.py
+# hypothesis_version: 6.169.0
+
+["Set up Let's Encrypt", '__main__', 'letsencrypt', 'setup-letsencrypt', 'site']

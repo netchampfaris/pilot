@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/bench/inventory.py
+# hypothesis_version: 6.169.0
+
+['-', '.git', '://', 'App', 'Bench', 'Site', '_', 'apps.txt', 'cert_name', 'domains', 'host_name', 'route', 'site_config.json', 'ssl']

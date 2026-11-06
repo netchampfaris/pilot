@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/_vendor/packaging/specifiers.py
+# hypothesis_version: 6.169.0
+
+['!=', ',', '.*', '<', '<=', '==', '===', '>', '>=', 'BaseSpecifier', 'InvalidSpecifier', 'Specifier', 'SpecifierSet', 'T', 'UnparsedVersionVar', '\\s*', '_canonicalized', '_has_arbitrary', '_is_unsatisfiable', '_prereleases', '_ranges', '_spec', '_spec_version', '_specs', '_str', 'arbitrary', 'compatible', 'equal', 'greater_than', 'greater_than_equal', 'invalid', 'less_than', 'less_than_equal', 'not_equal', '{}{}', '~=']

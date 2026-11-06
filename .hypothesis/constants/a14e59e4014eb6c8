@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/commands/admin/run_patches.py
+# hypothesis_version: 6.169.0
+
+['admin', 'all', 'post_update', 'pre_update', 'run-patches']

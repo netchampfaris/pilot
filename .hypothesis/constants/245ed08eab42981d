@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/settings/config.py
+# hypothesis_version: 6.169.0
+
+[',', 'access_key', 'action', 'all', 'allow_developer_mode', 'api_base', 'api_key', 'bench', 'block', 'body_limit', 'bucket', 'conditions', 'count', 'custom_rules', 'default', 'default_branch', 'deny', 'description', 'disconnect', 'email', 'email_recipients', 'enabled', 'endpoint_url', 'exclusions', 'exempt_paths', 'field', 'firewall', 'frappe', 'header_name', 'http_port', 'inbound_threshold', 'inspect_responses', 'ip', 'lite_mode', 'llm', 'login', 'mail', 'match', 'max_tokens', 'mode', 'model', 'name', 'operator', 'original_url', 'paranoia', 'password', 'port', 'provider', 'queues', 'region', 'resource_limits', 'rules', 's3', 's3.endpoint_url', 'secret_key', 'server', 'site_uptime', 'socketio_port', 'token', 'url', 'use_ssl', 'value', 'waf', 'webhook_endpoints', 'workers']

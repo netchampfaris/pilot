@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/editor/routes/search.py
+# hypothesis_version: 6.169.0
+
+[400, 503, '/replace', '/search', 'Query is required.', 'bad_request', 'case', 'changed', 'files', 'q', 'query', 'regex', 'replace', 'search_unavailable', 'word']

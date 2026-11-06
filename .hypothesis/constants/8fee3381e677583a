@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/notification/__init__.py
+# hypothesis_version: 6.169.0
+
+[200, 'Error', 'Info', 'Server', 'Sites', 'Tasks', 'Updates', 'Warning', 'action_route', 'category', 'created_at', 'event', 'is_read', 'message', 'name', 'names', 'notifications', 'read_through', 'severity', 'site', 'task_id', 'title']

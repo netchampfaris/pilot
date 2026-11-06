@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/database/slow_queries.py
+# hypothesis_version: 6.169.0
+
+[20000, '/\\*.*?\\*/', '?', '\\b\\d+\\.?\\d*\\b', '\\s+', 'db', 'fp', 'query', 'query_time', 'records', 'replace', 'sql_text', 'start_time', 'thread_id', 'time', 'utf-8', 'watermark']

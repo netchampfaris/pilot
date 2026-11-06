@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/_vendor/packaging/version.py
+# hypothesis_version: 6.169.0
+
+['*', '*+', '+', '.', '.0123456789', '?', '?+', 'InvalidVersion', 'VERSION_PATTERN', 'Version', '[\\._-]', '\\s*', '_dev', '_epoch', '_hash_cache', '_key_cache', '_local', '_post', '_pre', '_release', '_str', '_version', 'a', 'alpha', 'b', 'beta', 'c', 'cpython', 'dev', 'dev_l', 'dev_n', 'epoch', 'local', 'normalize_pre', 'parse', 'post', 'post_l', 'post_n1', 'post_n2', 'pre', 'pre_l', 'pre_n', 'preview', 'pypy', 'r', 'rc', 'release', 'rev']

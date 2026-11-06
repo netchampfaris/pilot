@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/updates.py
+# hypothesis_version: 6.169.0
+
+[500, '/app-update-checks', '/app-updates', '/cli-update-checks', '/cli-updates', 'BENCH_ROOT', 'HEAD', 'apps', 'branch', 'commits_ahead', 'commits_behind', 'current_version', 'dev', 'is_dev', 'last_fetched', 'latest_version', 'local_commit', 'name', 'remote_commit', 'restarts_admin', 'update_available', 'updates']

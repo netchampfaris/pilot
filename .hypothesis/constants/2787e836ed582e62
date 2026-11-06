@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/tasks/switch_branch.py
+# hypothesis_version: 6.169.0
+
+['Build assets', '__main__', 'assets', 'bench:update', 'checkout', 'install', 'migrate', 'resource_keys', 'restore', 'switch-branch', 'validate', 'web_only']

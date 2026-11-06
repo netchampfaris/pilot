@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/internal/tasks/wrapper.py
+# hypothesis_version: 6.169.0
+
+[b'\n', b'\r', b'1', b'[redacted]', 65536, '.bench.git.info', 'BENCH_TASK_READY_FD', '[redacted]', '__main__', 'a', 'args', 'bench.toml', 'bench_root', 'callbacks.json', 'code', 'command', 'command_argv', 'command_failed', 'common_config.toml', 'exit_code', 'failure', 'finished_at', 'microseconds', 'on_failure', 'on_failure.bin', 'on_success', 'on_success.bin', 'operation', 'output.log', 'rb', 'secrets.json', 'sites', 'utf-8', 'wb']

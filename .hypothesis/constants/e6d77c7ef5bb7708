@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/database/engines/mariadb_performance.py
+# hypothesis_version: 6.169.0
+
+['average_time_ms', 'calls', 'creation', 'database', 'db', 'dominant_index_name', 'enabled', 'index_name', 'information_schema', 'limit', 'mysql', 'offset', 'parent', 'percent', 'performance_schema', 'query', 'redundant_index_name', 'rows_examined', 'rows_sent', 'sys', 'system_schemas', 'table_name', 'total_time_ms']

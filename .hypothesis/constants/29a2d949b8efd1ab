@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/database/quick_actions.py
+# hypothesis_version: 6.169.0
+
+['MB', 'actions', 'available', 'current', 'current_mb', 'dynamic_max_mb', 'enabled', 'engine', 'manage_binlogs', 'managed', 'mariadb', 'max', 'max_connections', 'max_mb', 'min', 'min_mb', 'performance_schema', 'reachable', 'reason', 'recommended', 'recommended_mb', 'requires_restart', 'restart', 'sqlite', 'unit']

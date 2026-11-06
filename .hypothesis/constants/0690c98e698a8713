@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/app/validator/frappe_compatibility.py
+# hypothesis_version: 6.169.0
+
+['App', '__init__.py', 'bench', 'frappe-dependencies', 'path', 'syntax_error', 'tool', 'version']

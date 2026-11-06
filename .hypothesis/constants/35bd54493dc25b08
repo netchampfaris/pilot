@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/providers/waf.py
+# hypothesis_version: 6.169.0
+
+[b'\n', 403, 1000, 1800, 3600, 21600, 43200, 65536, 86400, 604800, '%Y-%m-%d %H:%M:%S', '%Y/%m/%d %H:%M:%S', '%a %b %d %H:%M:%S %Y', '12h', '1h', '1w', '24h', '30m', '6h', '949', '949110', '980', 'DetectionOnly', 'blocked', 'client ip', 'client_ip', 'count', 'data', 'details', 'flagged', 'http_code', 'http_status', 'id', 'ip', 'log_present', 'logs', 'message', 'messages', 'mode', 'modsec_audit.log', 'msg', 'now', 'rb', 'response', 'ruleId', 'series', 'status', 't', 'time', 'time_stamp', 'timestamp', 'top_ips', 'top_rules', 'totals', 'transaction', 'window', 'window_seconds', 'would_block']

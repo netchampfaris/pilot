@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/editor/__init__.py
+# hypothesis_version: 6.169.0
+
+[400, 403, 404, 409, 415, '1', 'BENCH_ROOT', 'File is not text.', 'File not found.', 'Path already exists.', 'already_exists', 'app', 'binary_file', 'editor', 'editor_app_not_found', 'editor_disabled', 'invalid_path', 'not_found']

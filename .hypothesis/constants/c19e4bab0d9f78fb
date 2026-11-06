@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/managers/processes/definitions.py
+# hypothesis_version: 6.169.0
+
+[300, ',', '--bench-root', '--dev', '--host=127.0.0.1', '--no-timeout', '--noreload', '--num-workers', '--port', '--prefix', '--queue', '--timeout', '--verbose', '-c', '-m', '0', '1', '2', 'BENCH_ADMIN_ROOT', 'Bench', 'DEV_SERVER', 'MALLOC_ARENA_MAX', 'PYTHONPATH', 'PYTHONUNBUFFERED', 'VITE_ADMIN_PORT', '[^A-Za-z0-9]+', '_', 'admin', 'admin-ui', 'admin-ui.log', 'admin.log', 'bin', 'default', 'dev', 'frappe', 'frappe.runner', 'frontend', 'gunicorn', 'node', 'npm', 'python', 'redis-server', 'redis_cache', 'redis_cache.conf', 'redis_queue', 'redis_queue.conf', 'run', 'schedule', 'schedule.log', 'serve', 'socketio', 'socketio.log', 'systemd', 'watch', 'watch.log', 'web', 'web.log', 'worker', 'worker-pool', 'worker_pool', 'worker_pool.log']

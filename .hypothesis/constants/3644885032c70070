@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/app/validator/imports.py
+# hypothesis_version: 6.169.0
+
+['.', 'App', 'conftest.py', 'frappe', 'frappe-dependencies', 'import', 'import_from', 'imports', 'level', 'lineno', 'module', 'name', 'path', 'syntax_error', 'test_', 'tests', 'type']

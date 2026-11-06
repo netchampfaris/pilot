@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/managers/environment.py
+# hypothesis_version: 6.169.0
+
+['  done', '--python', '--quiet', '--user', '--version', '-c', '-e', '-m', '.', '.admin-deps', '.admin-venv', '.cargo', '.local', 'AdminEnvManager', 'App', 'Bench', 'PATH', 'PythonEnvManager', 'admin', 'bin', 'brew', 'done', 'ensure_uv', 'find_uv', 'flask>=3.0', 'frontend', 'gunicorn', 'gunicorn>=21.2', 'install', 'node', 'node_modules', 'npm', 'package.json', 'pip', 'project', 'psutil>=5.9', 'pyjwt[crypto]>=2.8', 'pymysql>=1.1', 'pyproject.toml', 'python', 'rb', 'sh', 'uninstall', 'uv', 'v', 'venv']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/app/validator/utils/tmp_env.py
+# hypothesis_version: 6.169.0
+
+['--python', '-c', 'App', 'Bench', 'NAMES', 'TmpEnv', 'bin', 'frappe', 'install', 'pilot-app-validate-', 'pip', 'python', 'venv']

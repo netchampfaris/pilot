@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/sites/restore.py
+# hypothesis_version: 6.169.0
+
+[400, 403, 422, 'BENCH_ROOT', 'Idempotency-Key', '^\\d{8}_\\d{6}$', 'backup_timestamp', 'config', 'database', 'forbidden', 'frappe_cloud_backup', 'http://', 'invalid_restore', 'parts', 'password', 'remote_password', 'remote_site', 'skip_failing_patches', 'source_site', 'true', 'upload_id']

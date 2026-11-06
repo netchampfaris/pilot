@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/tasks/uninstall_app.py
+# hypothesis_version: 6.169.0
+
+['__main__', 'uninstall', 'uninstall-app']

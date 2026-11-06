@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/internal/tasks/worker_state.py
+# hypothesis_version: 6.169.0
+
+['a', 'current_task_id', 'desired', 'draining', 'idle', 'pid', 'running', 'starting', 'status', 'stopped', 'tasks', 'updated_at', 'utf-8', 'worker-control.json', 'worker-state.json', 'worker.lock', 'worker.pid']

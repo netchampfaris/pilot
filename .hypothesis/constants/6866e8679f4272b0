@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/bench/uploads.py
+# hypothesis_version: 6.169.0
+
+[256, 1024, '.gz', '.tgz', '^[0-9a-f]{16}$', 'config', 'database', 'filename', 'files', 'name', 'private', 'public', 'r+b', 'received', 'site', 'size', 'upload-database.sql', 'upload-files.tar', 'upload-files.tgz', 'upload.json', 'wb']

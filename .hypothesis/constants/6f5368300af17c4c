@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/config/admin.py
+# hypothesis_version: 6.169.0
+
+[180, 7000, 'AdminConfig', 'domain', 'enabled', 'jwks_audience', 'jwks_url', 'jwt_secret', 'password', 'port', 'recovery_codes', 'route', 'timeout', 'tls']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/integrations/llm/lite.py
+# hypothesis_version: 6.169.0
+
+['AWS Bedrock', 'Anthropic', 'Azure OpenAI', 'Cohere', 'DeepSeek', 'Google Gemini', 'Google Vertex AI', 'Groq', 'Mistral', 'Ollama', 'OpenAI', 'OpenRouter', 'anthropic', 'azure', 'bedrock', 'cohere', 'deepseek', 'gemini', 'groq', 'mistral', 'ollama', 'openai', 'openrouter', 'vertex_ai', 'xAI', 'xai']

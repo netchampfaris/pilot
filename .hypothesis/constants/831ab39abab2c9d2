@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/site/migration_backup.py
+# hypothesis_version: 6.169.0
+
+['--backup-path-conf', '--backup-path-db', '--batch', '--ignore-backup-conf', '--no-tablespaces', '--quick', '--single-transaction', '--site', '--skip-column-names', '-e', '.migrate', ';', 'Site', 'backup', 'database.sql.gz', 'db_name', 'db_socket', 'db_type', 'frappe', 'mariadb', 'mariadb-dump', 'mysql', 'mysqldump', 'postgres', 'previous_tables.json', 'rb', 'site_config.json', 'sqlite', 'utf-8', 'wb']

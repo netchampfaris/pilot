@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/sites/storage.py
+# hypothesis_version: 6.169.0
+
+['/<name>/storage', '/storage', 'BENCH_ROOT', 'Idempotency-Key', 'collected_at', 'database_bytes', 'site-storage']

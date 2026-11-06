@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/managers/fluentbit/__init__.py
+# hypothesis_version: 6.169.0
+
+[443, '/v1/logs/ingest', 'Bench | None', 'disable', 'fluent-bit', 'fluent-bit.conf', 'https', 'https://', 'parsers.conf', 'pilot.lua', 'restart', 'state', 'stop', 'system', 'templates', 'token.env']

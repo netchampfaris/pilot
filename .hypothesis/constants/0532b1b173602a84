@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/tasks/set_innodb_buffer_pool_size.py
+# hypothesis_version: 6.169.0
+
+['__main__', 'configure', 'size_mb']

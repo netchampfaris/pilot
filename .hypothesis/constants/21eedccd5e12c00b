@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/managers/processes/systemd.py
+# hypothesis_version: 6.169.0
+
+[600, '--all', '--no-legend', '--now', '--plain', '--property=Linger', '-c', '.service', '.socket', '2', 'BENCH_ADMIN_ROOT', 'Linger=yes', 'MALLOC_ARENA_MAX', 'PYTHONPATH', 'admin', 'admin.log', 'daemon-reload', 'disable', 'enable', 'enable-linger', 'is-active', 'is-enabled', 'list-units', 'loginctl', 'reset-failed', 'restart', 'services', 'show-user', 'start', 'stop', 'systemctl', 'web']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/bench/admin_domain.py
+# hypothesis_version: 6.169.0
+
+['*/site_config.json', 'Bench', 'RoutePolicy | None', 'admin', 'admin domain', 'domain', 'http', 'https', 'pilot_endpoint', 'raw', 'route', 'tls']

@@ -1,0 +1,27 @@
+Metadata-Version: 2.4
+Name: pilot
+Version: 0.1.0
+Requires-Python: >=3.11
+Provides-Extra: admin
+Requires-Dist: flask>=3.0; extra == "admin"
+Requires-Dist: psutil>=5.9; extra == "admin"
+Requires-Dist: pymysql>=1.1; extra == "admin"
+Requires-Dist: gunicorn>=21.2; extra == "admin"
+Requires-Dist: boto3==1.43.39; extra == "admin"
+Requires-Dist: psycopg2-binary>=2.9; extra == "admin"
+Requires-Dist: pyjwt[crypto]>=2.8; extra == "admin"
+Requires-Dist: litellm==1.93.0; extra == "admin"
+Requires-Dist: PyOTP==2.10.0; extra == "admin"
+Provides-Extra: metrics
+Requires-Dist: datum @ git+https://github.com/frappe/Datum@main ; extra == "metrics"
+Provides-Extra: test
+Requires-Dist: pytest>=8.0; extra == "test"
+Requires-Dist: pytest-cov>=5.0; extra == "test"
+Requires-Dist: requests>=2.31; extra == "test"
+Requires-Dist: hypothesis>=6.0; extra == "test"
+Provides-Extra: e2e
+Requires-Dist: pytest>=8.0; extra == "e2e"
+Requires-Dist: pytest-playwright>=0.5; extra == "e2e"
+Requires-Dist: playwright>=1.51; extra == "e2e"
+Provides-Extra: type-check
+Requires-Dist: mypy>=1.13; extra == "type-check"

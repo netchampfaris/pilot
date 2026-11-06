@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/integrations/central/metadata.py
+# hypothesis_version: 6.169.0
+
+[2.0, 21600, '/', 'Bench', 'BenchConfig', 'GET', 'PILOT_METADATA_KEY', 'PUT', 'X-metadata-token', 'bench_config', 'central', 'central_auth_token', 'central_endpoint', 'common_config', 'common_site_config', 'initial_jwks_cache', 'jwks_audience_id', 'jwks_url', 'pilot-central', 'pilot-common-config', 'pilot-config']

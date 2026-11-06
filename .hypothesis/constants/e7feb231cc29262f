@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/internal/validators.py
+# hypothesis_version: 6.169.0
+
+[253, '*', '-', '.', '..', 'Hostname', 'Hostname pattern', 'Site name', 'URL', '[A-Z]', '[^A-Za-z0-9]', '[a-z]', '\\d', '^(/|~|\\.\\.?/).+', '^[A-Za-z0-9._/\\-]+$', '^git@.+:.+', '^https?://.+', 'fd00:ec2::254', 'http', 'https', 'metadata', 'vm']

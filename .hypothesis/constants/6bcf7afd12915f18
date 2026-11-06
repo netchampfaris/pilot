@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/types/migrations.py
+# hypothesis_version: 6.169.0
+
+['backed_up', 'backing_up', 'bypass_patch', 'commit', 'completed', 'data_truncated', 'duplicate_entry', 'failed', 'migrate', 'migrating', 'missing_table', 'needs_attention', 'pending', 'preparing', 'recovered', 'recovering', 'restarting', 'retrying', 'revert_failed', 'reverted', 'reverting_apps', 'reverting_sites', 'running', 'site_migrate', 'string_to_number', 'success', 'tag', 'unknown', 'unknown_column', 'update', 'updating']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/frontend.py
+# hypothesis_version: 6.169.0
+
+['*.js', '--version', '.', '.package-lock.json', 'admin', 'assets', 'backend', 'build', 'cloud-settings', 'dashboard', 'editor', 'frontend', 'in-app-embed', 'install', 'node', 'node_modules', 'npm', 'package-lock.json', 'package.json', 'run', 'static', 'v']

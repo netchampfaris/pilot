@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/config/letsencrypt.py
+# hypothesis_version: 6.169.0
+
+['/var/www/letsencrypt', 'LetsEncryptConfig', '^[^@]+@[^@]+\\.[^@]+$', 'email', 'webroot_path']

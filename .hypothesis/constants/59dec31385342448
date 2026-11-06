@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/integrations/git/github.py
+# hypothesis_version: 6.169.0
+
+[100, 401, 403, 404, '--heads', '.git', '/', '2022-11-28', 'Accept', 'Authorization', 'HEAD', 'User-Agent', 'X-GitHub-Api-Version', 'clone_url', 'default_branch', 'description', 'full_name', 'git', 'github', 'github.com', 'login', 'ls-remote', 'name', 'pilot', 'private', 'refs/heads/', 'x-access-token']

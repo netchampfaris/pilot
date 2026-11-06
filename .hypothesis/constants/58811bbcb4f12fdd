@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/integrations/git/__init__.py
+# hypothesis_version: 6.169.0
+
+['/', 'BranchNotFoundError', 'CREDENTIALS_FILENAME', 'GitAuthError', 'GitCredentialStore', 'GitHubProvider', 'GitProvider', 'GitProviderError', 'HEAD', 'TOKEN_HELP_URLS', 'auth_config_for', 'description', 'name', 'normalize_to_https', 'project', 'provider', 'provider_for_name', 'provider_for_repo', 'pyproject.toml', 'repo_host', 'token', 'without_credentials']

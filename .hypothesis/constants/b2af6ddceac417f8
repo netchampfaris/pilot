@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/managers/processes/supervisor.py
+# hypothesis_version: 6.169.0
+
+['*.conf', ',', '-c', '@reboot', 'RUNNING', 'admin', 'priority=100\n', 'redis', 'reread', 'restart', 'services', 'shutdown', 'status', 'stop', 'supervisor.d', 'supervisorctl', 'supervisord', 'supervisord-boot', 'supervisord-boot.log', 'supervisord.conf', 'supervisord.pid', 'supervisord.sock', 'update']

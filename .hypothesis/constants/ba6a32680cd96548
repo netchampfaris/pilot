@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/app/validator/hooks.py
+# hypothesis_version: 6.169.0
+
+['.', ':', 'App', '__init__', '__init__.py', 'after_build', 'after_install', 'after_migrate', 'after_sync', 'after_uninstall', 'auth_hooks', 'base_template_map', 'before_install', 'before_migrate', 'before_tests', 'before_uninstall', 'before_write_file', 'boot_session', 'clear_cache', 'dict_errors', 'dict_hooks', 'doc_events', 'doctype_js', 'extend_bootinfo', 'extend_doctype_class', 'get_sender_details', 'has_permission', 'hooks.py', 'jinja', 'notification_config', 'on_login', 'on_logout', 'on_session_creation', 'override_email_send', 'page_js', 'path', 'path_hooks', 'role_home_page', 'scheduler_events', 'send_sms', 'send_token_via_sms', 'standard_queries', 'symbols', 'syntax_error', 'webform_include_css', 'webform_include_js', 'website_clear_cache', 'website_context', 'wildcard', 'write_file']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/api/v1/auth.py
+# hypothesis_version: 6.169.0
+
+[400, 401, 404, 422, 500, 503, '/password', '/session', '/sessions', '/sessions/revoke/all', '/two-factor', '/two-factor/<name>', 'BENCH_ROOT', 'Incorrect password.', 'No such device.', 'active_tokens', 'auth', 'auth.get_session', 'authenticated', 'bench', 'credentials', 'current_jti', 'device', 'enabled', 'event', 'exp', 'invalid_credentials', 'invalid_device_name', 'invalid_login_token', 'invalid_otp', 'invalid_password', 'issued', 'jti', 'jwt_claims', 'login_link', 'login_redeemed', 'logout', 'malformed_request', 'max_devices', 'name', 'new_password', 'otp', 'password', 'recovery_codes', 'revoked', 'revoked_sessions', 'scope', 'session', 'session_unavailable', 'settings_unavailable', 'sid', 'still_enabled', 'two_factor_required', 'unknown_credential', 'unknown_session', 'used_logins', 'via']

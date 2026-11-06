@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/admin/backend/providers/storage.py
+# hypothesis_version: 6.169.0
+
+[256, 'backups', 'binlog', 'files', 'information_schema', 'mariadb', 'mysql', 'performance_schema', 'postgres', 'private', 'public', 'sys']

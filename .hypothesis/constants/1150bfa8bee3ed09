@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/tasks/update_cli.py
+# hypothesis_version: 6.169.0
+
+['__main__', 'restart-admin', 'update', 'update-cli']

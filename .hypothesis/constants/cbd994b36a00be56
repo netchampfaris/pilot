@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/internal/tasks/process_identity.py
+# hypothesis_version: 6.169.0
+
+[b'\x00', b' ', 0.01, 1.0, ')', '-A', '-E', '-n', '-o', '-p', '-ww', '/proc', 'BENCH_TASK_LAUNCH_ID', 'C', 'LC_ALL', 'TaskProcessRecord', 'Z', 'argv', 'argv_hash', 'big', 'boot_id', 'cmdline', 'command=', 'dead', 'environ', 'identity', 'kern.boottime', 'launch_id', 'owned', 'pgid', 'pid', 'pid=', 'ps', 'sid', 'stale', 'start_ticks', 'stat', 'sysctl', 'task_id', 'uid', 'unknown', 'utf-8']

@@ -1,0 +1,4 @@
+# file: /Users/netchampfaris/Projects/forge-next/pilot-consolidation/site-lifecycle/pilot/core/app/validator/dependency_declarations.py
+# hypothesis_version: 6.169.0
+
+['>=16.0.0,<17.0.0', 'App', 'frappe', 'frappe-dependencies', 'hooks.py', 'path', 'required_apps']
